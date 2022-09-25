@@ -1,0 +1,346 @@
+dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterritoryCode,popData2019,continentExp,Cumulative_number_for_14_days_of_COVID-19_cases_per_100000,As of Population,change case,change death,Measures
+09/12/2020,9,12,2020,20815,590,Germany,DE,DEU,83019213,Europe,309.8126213,0.000250725,#VALUE!,#VALUE!,Social Distancing and Wearing Masks Enforced
+08/12/2020,8,12,2020,14055,423,Germany,DE,DEU,83019213,Europe,307.1843141,0.000169298,-6760,-167,Social Distancing and Wearing Masks Enforced
+07/12/2020,7,12,2020,12332,147,Germany,DE,DEU,83019213,Europe,306.5808393,0.000148544,-1723,-276,Social Distancing and Wearing Masks Enforced
+06/12/2020,6,12,2020,17767,255,Germany,DE,DEU,83019213,Europe,304.8125739,0.000214011,5435,108,Social Distancing and Wearing Masks Enforced
+05/12/2020,5,12,2020,23318,483,Germany,DE,DEU,83019213,Europe,302.372175,0.000280875,5551,228,Social Distancing and Wearing Masks Enforced
+04/12/2020,4,12,2020,23448,432,Germany,DE,DEU,83019213,Europe,301.9457677,0.000282441,130,-51,Social Distancing and Wearing Masks Enforced
+03/12/2020,3,12,2020,22046,479,Germany,DE,DEU,83019213,Europe,302.1866758,0.000265553,-1402,47,Social Distancing and Wearing Masks Enforced
+02/12/2020,2,12,2020,17270,487,Germany,DE,DEU,83019213,Europe,302.864832,0.000208024,-4776,8,Social Distancing and Wearing Masks Enforced
+01/12/2020,1,12,2020,13604,388,Germany,DE,DEU,83019213,Europe,303.2153533,0.000163866,-3666,-99,Social Distancing and Wearing Masks Enforced
+30/11/2020,30,11,2020,11169,125,Germany,DE,DEU,83019213,Europe,304.1970538,0.000134535,-2435,-263,Social Distancing and Wearing Masks Enforced
+29/11/2020,29,11,2020,14611,158,Germany,DE,DEU,83019213,Europe,303.7814873,0.000175995,3442,33,Social Distancing and Wearing Masks Enforced
+28/11/2020,28,11,2020,21695,379,Germany,DE,DEU,83019213,Europe,306.5952938,0.000261325,7084,221,Social Distancing and Wearing Masks Enforced
+27/11/2020,27,11,2020,22806,426,Germany,DE,DEU,83019213,Europe,307.5179718,0.000274707,1111,47,Social Distancing and Wearing Masks Enforced
+26/11/2020,26,11,2020,22268,389,Germany,DE,DEU,83019213,Europe,308.4045135,0.000268227,-538,-37,Social Distancing and Wearing Masks Enforced
+25/11/2020,25,11,2020,18633,410,Germany,DE,DEU,83019213,Europe,307.9202883,0.000224442,-3635,21,Social Distancing and Wearing Masks Enforced
+24/11/2020,24,11,2020,13554,249,Germany,DE,DEU,83019213,Europe,307.7444254,0.000163263,-5079,-161,Social Distancing and Wearing Masks Enforced
+23/11/2020,23,11,2020,10864,90,Germany,DE,DEU,83019213,Europe,309.8860983,0.000130861,-2690,-159,Social Distancing and Wearing Masks Enforced
+22/11/2020,22,11,2020,15741,138,Germany,DE,DEU,83019213,Europe,312.8962449,0.000189607,4877,48,Social Distancing and Wearing Masks Enforced
+21/11/2020,21,11,2020,22964,254,Germany,DE,DEU,83019213,Europe,313.228698,0.000276611,7223,116,Social Distancing and Wearing Masks Enforced
+20/11/2020,20,11,2020,23648,260,Germany,DE,DEU,83019213,Europe,313.7526731,0.00028485,684,6,Social Distancing and Wearing Masks Enforced
+19/11/2020,19,11,2020,22609,251,Germany,DE,DEU,83019213,Europe,311.1725475,0.000272335,-1039,-9,Social Distancing and Wearing Masks Enforced
+18/11/2020,18,11,2020,17561,305,Germany,DE,DEU,83019213,Europe,308.0178561,0.000211529,-5048,54,Social Distancing and Wearing Masks Enforced
+17/11/2020,17,11,2020,14419,267,Germany,DE,DEU,83019213,Europe,307.5998805,0.000173683,-3142,-38,Social Distancing and Wearing Masks Enforced
+16/11/2020,16,11,2020,10824,62,Germany,DE,DEU,83019213,Europe,308.7237168,0.000130379,-3595,-205,Social Distancing and Wearing Masks Enforced
+15/11/2020,15,11,2020,16947,107,Germany,DE,DEU,83019213,Europe,310.2570968,0.000204133,6123,45,Social Distancing and Wearing Masks Enforced
+14/11/2020,14,11,2020,22461,178,Germany,DE,DEU,83019213,Europe,306.9205197,0.000270552,5514,71,Social Distancing and Wearing Masks Enforced
+13/11/2020,13,11,2020,23542,218,Germany,DE,DEU,83019213,Europe,302.8226731,0.000283573,1081,40,Social Distancing and Wearing Masks Enforced
+12/11/2020,12,11,2020,21866,215,Germany,DE,DEU,83019213,Europe,296.967402,0.000263385,-1676,-3,Social Distancing and Wearing Masks Enforced
+11/11/2020,11,11,2020,18487,261,Germany,DE,DEU,83019213,Europe,290.833882,0.000222683,-3379,46,Social Distancing and Wearing Masks Enforced
+10/11/2020,10,11,2020,15332,154,Germany,DE,DEU,83019213,Europe,286.590286,0.00018468,-3155,-107,Social Distancing and Wearing Masks Enforced
+09/11/2020,9,11,2020,13363,63,Germany,DE,DEU,83019213,Europe,281.8648739,0.000160963,-1969,-91,Social Distancing and Wearing Masks Enforced
+08/11/2020,8,11,2020,16017,63,Germany,DE,DEU,83019213,Europe,276.2300336,0.000192931,2654,0,Social Distancing and Wearing Masks Enforced
+07/11/2020,7,11,2020,23399,130,Germany,DE,DEU,83019213,Europe,270.3988533,0.00028185,7382,67,Social Distancing and Wearing Masks Enforced
+06/11/2020,6,11,2020,21506,166,Germany,DE,DEU,83019213,Europe,259.9374196,0.000259048,-1893,36,Social Distancing and Wearing Masks Enforced
+05/11/2020,5,11,2020,19990,118,Germany,DE,DEU,83019213,Europe,247.5740164,0.000240788,-1516,-48,Social Distancing and Wearing Masks Enforced
+04/11/2020,4,11,2020,17214,151,Germany,DE,DEU,83019213,Europe,237.0909009,0.00020735,-2776,33,Social Distancing and Wearing Masks Enforced
+03/11/2020,3,11,2020,15352,131,Germany,DE,DEU,83019213,Europe,225.5044263,0.000184921,-1862,-20,Social Distancing and Wearing Masks Enforced
+02/11/2020,2,11,2020,12097,49,Germany,DE,DEU,83019213,Europe,215.2851052,0.000145713,-3255,-82,Social Distancing and Wearing Masks Enforced
+01/11/2020,1,11,2020,14177,29,Germany,DE,DEU,83019213,Europe,205.9234168,0.000170768,2080,-20,Social Distancing and Wearing Masks Enforced
+31/10/2020,31,10,2020,19059,103,Germany,DE,DEU,83019213,Europe,195.5764143,0.000229573,4882,74,Social Distancing and Wearing Masks Enforced
+30/10/2020,30,10,2020,18681,77,Germany,DE,DEU,83019213,Europe,182.0506297,0.00022502,-378,-26,Social Distancing and Wearing Masks Enforced
+29/10/2020,29,10,2020,16774,89,Germany,DE,DEU,83019213,Europe,168.3827092,0.00020205,-1907,12,Social Distancing and Wearing Masks Enforced
+28/10/2020,28,10,2020,14964,85,Germany,DE,DEU,83019213,Europe,156.1734872,0.000180247,-1810,-4,Social Distancing and Wearing Masks Enforced
+27/10/2020,27,10,2020,11409,42,Germany,DE,DEU,83019213,Europe,144.3304455,0.000137426,-3555,-43,Social Distancing and Wearing Masks Enforced
+26/10/2020,26,10,2020,8685,24,Germany,DE,DEU,83019213,Europe,135.5529593,0.000104614,-2724,-18,Social Distancing and Wearing Masks Enforced
+25/10/2020,25,10,2020,11176,29,Germany,DE,DEU,83019213,Europe,128.0631268,0.000134619,2491,5,Social Distancing and Wearing Masks Enforced
+24/10/2020,24,10,2020,14714,49,Germany,DE,DEU,83019213,Europe,118.7965971,0.000177236,3538,20,Social Distancing and Wearing Masks Enforced
+23/10/2020,23,10,2020,11242,49,Germany,DE,DEU,83019213,Europe,106.7596244,0.000135414,-3472,0,Social Distancing and Wearing Masks Enforced
+22/10/2020,22,10,2020,11287,30,Germany,DE,DEU,83019213,Europe,98.65788537,0.000135956,45,-19,Social Distancing and Wearing Masks Enforced
+21/10/2020,21,10,2020,7595,39,Germany,DE,DEU,83019213,Europe,89.95026248,9.14848E-05,-3692,9,Social Distancing and Wearing Masks Enforced
+20/10/2020,20,10,2020,6868,47,Germany,DE,DEU,83019213,Europe,84.20821816,8.27278E-05,-727,8,Social Distancing and Wearing Masks Enforced
+19/10/2020,19,10,2020,4325,12,Germany,DE,DEU,83019213,Europe,79.11421661,5.20964E-05,-2543,-35,Social Distancing and Wearing Masks Enforced
+18/10/2020,18,10,2020,5587,10,Germany,DE,DEU,83019213,Europe,75.56925407,6.72977E-05,1262,-2,Social Distancing and Wearing Masks Enforced
+17/10/2020,17,10,2020,7830,33,Germany,DE,DEU,83019213,Europe,71.58463427,9.43155E-05,2243,23,Social Distancing and Wearing Masks Enforced
+16/10/2020,16,10,2020,7334,24,Germany,DE,DEU,83019213,Europe,65.24031973,8.8341E-05,-496,-9,Social Distancing and Wearing Masks Enforced
+15/10/2020,15,10,2020,6638,33,Germany,DE,DEU,83019213,Europe,59.6259567,7.99574E-05,-696,9,Social Distancing and Wearing Masks Enforced
+14/10/2020,14,10,2020,5132,43,Germany,DE,DEU,83019213,Europe,54.64518195,6.1817E-05,-1506,10,Social Distancing and Wearing Masks Enforced
+13/10/2020,13,10,2020,4122,13,Germany,DE,DEU,83019213,Europe,50.6292441,4.96512E-05,-1010,-30,Social Distancing and Wearing Masks Enforced
+12/10/2020,12,10,2020,2467,6,Germany,DE,DEU,83019213,Europe,48.18041337,2.9716E-05,-1655,-7,Social Distancing and Wearing Masks Enforced
+11/10/2020,11,10,2020,3483,11,Germany,DE,DEU,83019213,Europe,46.6446243,4.19541E-05,1016,5,Social Distancing and Wearing Masks Enforced
+10/10/2020,10,10,2020,4721,15,Germany,DE,DEU,83019213,Europe,44.14761195,5.68664E-05,1238,4,Social Distancing and Wearing Masks Enforced
+09/10/2020,9,10,2020,4516,11,Germany,DE,DEU,83019213,Europe,41.4807594,5.4397E-05,-205,-4,Social Distancing and Wearing Masks Enforced
+08/10/2020,8,10,2020,4058,16,Germany,DE,DEU,83019213,Europe,38.63443032,4.88803E-05,-458,5,Social Distancing and Wearing Masks Enforced
+07/10/2020,7,10,2020,2828,16,Germany,DE,DEU,83019213,Europe,36.32773536,3.40644E-05,-1230,0,Social Distancing and Wearing Masks Enforced
+06/10/2020,6,10,2020,2639,12,Germany,DE,DEU,83019213,Europe,35.05212703,3.17878E-05,-189,-4,Social Distancing and Wearing Masks Enforced
+05/10/2020,5,10,2020,1382,5,Germany,DE,DEU,83019213,Europe,34.06681294,1.66467E-05,-1257,-7,Social Distancing and Wearing Masks Enforced
+04/10/2020,4,10,2020,2279,2,Germany,DE,DEU,83019213,Europe,33.51272434,2.74515E-05,897,-3,Social Distancing and Wearing Masks Enforced
+03/10/2020,3,10,2020,2563,19,Germany,DE,DEU,83019213,Europe,32.38768356,3.08724E-05,284,17,Social Distancing and Wearing Masks Enforced
+02/10/2020,2,10,2020,2673,8,Germany,DE,DEU,83019213,Europe,32.0672758,3.21974E-05,110,-11,Social Distancing and Wearing Masks Enforced
+01/10/2020,1,10,2020,2503,12,Germany,DE,DEU,83019213,Europe,31.15543868,3.01496E-05,-170,4,Social Distancing and Wearing Masks Enforced
+30/09/2020,30,9,2020,1798,17,Germany,DE,DEU,83019213,Europe,30.78323568,2.16576E-05,-705,5,Social Distancing and Wearing Masks Enforced
+29/09/2020,29,9,2020,2089,11,Germany,DE,DEU,83019213,Europe,30.90730335,2.51628E-05,291,-6,Social Distancing and Wearing Masks Enforced
+28/09/2020,28,9,2020,1192,3,Germany,DE,DEU,83019213,Europe,30.08580676,1.43581E-05,-897,-8,Social Distancing and Wearing Masks Enforced
+27/09/2020,27,9,2020,1410,5,Germany,DE,DEU,83019213,Europe,29.76660355,1.6984E-05,218,2,Social Distancing and Wearing Masks Enforced
+26/09/2020,26,9,2020,2507,9,Germany,DE,DEU,83019213,Europe,29.21010586,3.01978E-05,1097,4,Social Distancing and Wearing Masks Enforced
+25/09/2020,25,9,2020,2153,15,Germany,DE,DEU,83019213,Europe,28.15372389,2.59338E-05,-354,6,Social Distancing and Wearing Masks Enforced
+24/09/2020,24,9,2020,2143,19,Germany,DE,DEU,83019213,Europe,27.34788633,2.58133E-05,-10,4,Social Distancing and Wearing Masks Enforced
+23/09/2020,23,9,2020,1769,13,Germany,DE,DEU,83019213,Europe,27.04554667,2.13083E-05,-374,-6,Social Distancing and Wearing Masks Enforced
+22/09/2020,22,9,2020,1821,10,Germany,DE,DEU,83019213,Europe,26.33125419,2.19347E-05,52,-3,Social Distancing and Wearing Masks Enforced
+21/09/2020,21,9,2020,922,0,Germany,DE,DEU,83019213,Europe,25.94339216,1.11059E-05,-899,-10,Social Distancing and Wearing Masks Enforced
+20/09/2020,20,9,2020,1345,2,Germany,DE,DEU,83019213,Europe,25.8133018,1.62011E-05,423,2,Social Distancing and Wearing Masks Enforced
+19/09/2020,19,9,2020,2297,6,Germany,DE,DEU,83019213,Europe,25.38328086,2.76683E-05,952,4,Social Distancing and Wearing Masks Enforced
+18/09/2020,18,9,2020,1916,7,Germany,DE,DEU,83019213,Europe,24.27630818,2.3079E-05,-381,1,Social Distancing and Wearing Masks Enforced
+17/09/2020,17,9,2020,2194,3,Germany,DE,DEU,83019213,Europe,23.71860596,2.64276E-05,278,-4,Social Distancing and Wearing Masks Enforced
+16/09/2020,16,9,2020,1901,6,Germany,DE,DEU,83019213,Europe,22.65499674,2.28983E-05,-293,3,Social Distancing and Wearing Masks Enforced
+15/09/2020,15,9,2020,1407,12,Germany,DE,DEU,83019213,Europe,21.87806815,1.69479E-05,-494,6,Social Distancing and Wearing Masks Enforced
+14/09/2020,14,9,2020,927,1,Germany,DE,DEU,83019213,Europe,21.65041001,1.11661E-05,-480,-11,Social Distancing and Wearing Masks Enforced
+13/09/2020,13,9,2020,948,2,Germany,DE,DEU,83019213,Europe,21.26857069,1.1419E-05,21,1,Social Distancing and Wearing Masks Enforced
+12/09/2020,12,9,2020,1630,5,Germany,DE,DEU,83019213,Europe,21.07223059,1.9634E-05,682,3,Social Distancing and Wearing Masks Enforced
+11/09/2020,11,9,2020,1484,1,Germany,DE,DEU,83019213,Europe,20.89034499,1.78754E-05,-146,-4,Social Distancing and Wearing Masks Enforced
+10/09/2020,10,9,2020,1892,3,Germany,DE,DEU,83019213,Europe,20.99514,2.27899E-05,408,2,Social Distancing and Wearing Masks Enforced
+09/09/2020,9,9,2020,1176,9,Germany,DE,DEU,83019213,Europe,20.53139193,1.41654E-05,-716,6,Social Distancing and Wearing Masks Enforced
+08/09/2020,8,9,2020,1499,4,Germany,DE,DEU,83019213,Europe,21.01320811,1.80561E-05,323,-5,Social Distancing and Wearing Masks Enforced
+07/09/2020,7,9,2020,814,0,Germany,DE,DEU,83019213,Europe,20.74700467,9.80496E-06,-685,-4,Social Distancing and Wearing Masks Enforced
+06/09/2020,6,9,2020,988,1,Germany,DE,DEU,83019213,Europe,20.62293701,1.19009E-05,174,1,Social Distancing and Wearing Masks Enforced
+05/09/2020,5,9,2020,1378,2,Germany,DE,DEU,83019213,Europe,20.37480167,1.65986E-05,390,1,Social Distancing and Wearing Masks Enforced
+04/09/2020,4,9,2020,1453,1,Germany,DE,DEU,83019213,Europe,21.16498021,1.7502E-05,75,-1,Social Distancing and Wearing Masks Enforced
+03/09/2020,3,9,2020,1311,8,Germany,DE,DEU,83019213,Europe,21.13366216,1.57915E-05,-142,7,Social Distancing and Wearing Masks Enforced
+02/09/2020,2,9,2020,1256,11,Germany,DE,DEU,83019213,Europe,21.61066017,1.5129E-05,-55,3,Social Distancing and Wearing Masks Enforced
+01/09/2020,1,9,2020,1218,4,Germany,DE,DEU,83019213,Europe,21.91661345,1.46713E-05,-38,-7,Social Distancing and Wearing Masks Enforced
+31/08/2020,31,8,2020,610,3,Germany,DE,DEU,83019213,Europe,22.1237944,7.3477E-06,-608,-1,Social Distancing and Wearing Masks Enforced
+30/08/2020,30,8,2020,785,6,Germany,DE,DEU,83019213,Europe,22.06477192,9.45564E-06,175,3,Social Distancing and Wearing Masks Enforced
+29/08/2020,29,8,2020,1479,1,Germany,DE,DEU,83019213,Europe,21.87204545,1.78152E-05,694,-5,Social Distancing and Wearing Masks Enforced
+28/08/2020,28,8,2020,1571,3,Germany,DE,DEU,83019213,Europe,21.79495486,1.89233E-05,92,2,Social Distancing and Wearing Masks Enforced
+27/08/2020,27,8,2020,1507,5,Germany,DE,DEU,83019213,Europe,21.64800093,1.81524E-05,-64,2,Social Distancing and Wearing Masks Enforced
+26/08/2020,26,8,2020,1576,3,Germany,DE,DEU,83019213,Europe,21.57331942,1.89836E-05,69,-2,Social Distancing and Wearing Masks Enforced
+25/08/2020,25,8,2020,1278,5,Germany,DE,DEU,83019213,Europe,21.15173026,1.5394E-05,-298,2,Social Distancing and Wearing Masks Enforced
+24/08/2020,24,8,2020,711,3,Germany,DE,DEU,83019213,Europe,20.77591364,8.56428E-06,-567,-2,Social Distancing and Wearing Masks Enforced
+23/08/2020,23,8,2020,782,2,Germany,DE,DEU,83019213,Europe,20.44466502,9.41951E-06,71,-1,Social Distancing and Wearing Masks Enforced
+22/08/2020,22,8,2020,2034,7,Germany,DE,DEU,83019213,Europe,20.17123434,2.45004E-05,1252,5,Social Distancing and Wearing Masks Enforced
+21/08/2020,21,8,2020,1427,7,Germany,DE,DEU,83019213,Europe,19.07269345,1.71888E-05,-607,0,Social Distancing and Wearing Masks Enforced
+20/08/2020,20,8,2020,1707,10,Germany,DE,DEU,83019213,Europe,18.73542212,2.05615E-05,280,3,Social Distancing and Wearing Masks Enforced
+19/08/2020,19,8,2020,1510,7,Germany,DE,DEU,83019213,Europe,17.93801635,1.81886E-05,-197,-3,Social Distancing and Wearing Masks Enforced
+18/08/2020,18,8,2020,1390,4,Germany,DE,DEU,83019213,Europe,17.01172474,1.67431E-05,-120,-3,Social Distancing and Wearing Masks Enforced
+17/08/2020,17,8,2020,561,1,Germany,DE,DEU,83019213,Europe,16.39620457,6.75747E-06,-829,-3,Social Distancing and Wearing Masks Enforced
+16/08/2020,16,8,2020,625,0,Germany,DE,DEU,83019213,Europe,16.33356847,7.52838E-06,64,-1,Social Distancing and Wearing Masks Enforced
+15/08/2020,15,8,2020,1415,6,Germany,DE,DEU,83019213,Europe,15.8698204,1.70442E-05,790,6,Social Distancing and Wearing Masks Enforced
+14/08/2020,14,8,2020,1449,14,Germany,DE,DEU,83019213,Europe,15.31573179,1.74538E-05,34,8,Social Distancing and Wearing Masks Enforced
+13/08/2020,13,8,2020,1445,4,Germany,DE,DEU,83019213,Europe,14.61830287,1.74056E-05,-4,-10,Social Distancing and Wearing Masks Enforced
+12/08/2020,12,8,2020,1226,6,Germany,DE,DEU,83019213,Europe,13.96423741,1.47677E-05,-219,2,Social Distancing and Wearing Masks Enforced
+11/08/2020,11,8,2020,966,4,Germany,DE,DEU,83019213,Europe,13.31137649,1.16359E-05,-260,-2,Social Distancing and Wearing Masks Enforced
+10/08/2020,10,8,2020,436,1,Germany,DE,DEU,83019213,Europe,12.91026452,5.2518E-06,-530,-3,Social Distancing and Wearing Masks Enforced
+09/08/2020,9,8,2020,555,1,Germany,DE,DEU,83019213,Europe,12.79462864,6.6852E-06,119,0,Social Distancing and Wearing Masks Enforced
+08/08/2020,8,8,2020,1122,12,Germany,DE,DEU,83019213,Europe,12.49349352,1.35149E-05,567,11,Social Distancing and Wearing Masks Enforced
+07/08/2020,7,8,2020,1147,8,Germany,DE,DEU,83019213,Europe,12.08274523,1.38161E-05,25,-4,Social Distancing and Wearing Masks Enforced
+06/08/2020,6,8,2020,1045,7,Germany,DE,DEU,83019213,Europe,11.6828378,1.25874E-05,-102,-1,Social Distancing and Wearing Masks Enforced
+05/08/2020,5,8,2020,741,12,Germany,DE,DEU,83019213,Europe,11.10947655,8.92564E-06,-304,5,Social Distancing and Wearing Masks Enforced
+04/08/2020,4,8,2020,879,8,Germany,DE,DEU,83019213,Europe,10.76377344,1.05879E-05,138,-4,Social Distancing and Wearing Masks Enforced
+03/08/2020,3,8,2020,509,7,Germany,DE,DEU,83019213,Europe,10.3337525,6.13111E-06,-370,-1,Social Distancing and Wearing Masks Enforced
+02/08/2020,2,8,2020,240,0,Germany,DE,DEU,83019213,Europe,10.02057198,2.8909E-06,-269,-7,Social Distancing and Wearing Masks Enforced
+01/08/2020,1,8,2020,955,0,Germany,DE,DEU,83019213,Europe,9.97479945,1.15034E-05,715,0,Social Distancing and Wearing Masks Enforced
+31/07/2020,31,7,2020,870,7,Germany,DE,DEU,83019213,Europe,9.46166522,1.04795E-05,-85,7,Social Distancing and Wearing Masks Enforced
+30/07/2020,30,7,2020,902,6,Germany,DE,DEU,83019213,Europe,9.11596211,1.0865E-05,32,-1,Social Distancing and Wearing Masks Enforced
+29/07/2020,29,7,2020,684,6,Germany,DE,DEU,83019213,Europe,8.67269122,8.23906E-06,-218,0,Social Distancing and Wearing Masks Enforced
+28/07/2020,28,7,2020,633,4,Germany,DE,DEU,83019213,Europe,8.27157925,7.62474E-06,-51,-2,Social Distancing and Wearing Masks Enforced
+27/07/2020,27,7,2020,340,0,Germany,DE,DEU,83019213,Europe,8.00537582,4.09544E-06,-293,-4,Social Distancing and Wearing Masks Enforced
+26/07/2020,26,7,2020,305,0,Germany,DE,DEU,83019213,Europe,7.78735399,3.67385E-06,-35,0,Social Distancing and Wearing Masks Enforced
+25/07/2020,25,7,2020,781,7,Germany,DE,DEU,83019213,Europe,7.71869519,9.40746E-06,476,7,Social Distancing and Wearing Masks Enforced
+24/07/2020,24,7,2020,815,10,Germany,DE,DEU,83019213,Europe,7.23326539,9.817E-06,34,3,Social Distancing and Wearing Masks Enforced
+23/07/2020,23,7,2020,569,6,Germany,DE,DEU,83019213,Europe,6.7273584,6.85384E-06,-246,-4,Social Distancing and Wearing Masks Enforced
+22/07/2020,22,7,2020,454,5,Germany,DE,DEU,83019213,Europe,6.57438176,5.46861E-06,-115,-1,Social Distancing and Wearing Masks Enforced
+21/07/2020,21,7,2020,522,4,Germany,DE,DEU,83019213,Europe,6.50572296,6.2877E-06,68,-1,Social Distancing and Wearing Masks Enforced
+20/07/2020,20,7,2020,249,2,Germany,DE,DEU,83019213,Europe,6.34672362,2.99931E-06,-273,-2,Social Distancing and Wearing Masks Enforced
+19/07/2020,19,7,2020,202,1,Germany,DE,DEU,83019213,Europe,6.31058741,2.43317E-06,-47,-1,Social Distancing and Wearing Masks Enforced
+18/07/2020,18,7,2020,529,1,Germany,DE,DEU,83019213,Europe,6.3551554,6.37202E-06,327,0,Social Distancing and Wearing Masks Enforced
+17/07/2020,17,7,2020,583,4,Germany,DE,DEU,83019213,Europe,6.22626957,7.02247E-06,54,3,Social Distancing and Wearing Masks Enforced
+16/07/2020,16,7,2020,534,7,Germany,DE,DEU,83019213,Europe,6.06124753,6.43225E-06,-49,3,Social Distancing and Wearing Masks Enforced
+15/07/2020,15,7,2020,351,3,Germany,DE,DEU,83019213,Europe,6.02390678,4.22794E-06,-183,-4,Social Distancing and Wearing Masks Enforced
+14/07/2020,14,7,2020,412,4,Germany,DE,DEU,83019213,Europe,6.16242893,4.96271E-06,61,1,Social Distancing and Wearing Masks Enforced
+13/07/2020,13,7,2020,159,1,Germany,DE,DEU,83019213,Europe,6.26601941,1.91522E-06,-253,-3,Social Distancing and Wearing Masks Enforced
+12/07/2020,12,7,2020,248,3,Germany,DE,DEU,83019213,Europe,6.39008708,2.98726E-06,89,2,Social Distancing and Wearing Masks Enforced
+11/07/2020,11,7,2020,378,6,Germany,DE,DEU,83019213,Europe,6.3997234,4.55316E-06,130,3,Social Distancing and Wearing Masks Enforced
+10/07/2020,10,7,2020,395,6,Germany,DE,DEU,83019213,Europe,6.7719264,4.75793E-06,17,0,Social Distancing and Wearing Masks Enforced
+09/07/2020,9,7,2020,442,12,Germany,DE,DEU,83019213,Europe,6.87069871,5.32407E-06,47,6,Social Distancing and Wearing Masks Enforced
+08/07/2020,8,7,2020,397,12,Germany,DE,DEU,83019213,Europe,7.09715232,4.78203E-06,-45,0,Social Distancing and Wearing Masks Enforced
+07/07/2020,7,7,2020,390,8,Germany,DE,DEU,83019213,Europe,7.326015,4.69771E-06,-7,-4,Social Distancing and Wearing Masks Enforced
+06/07/2020,6,7,2020,219,4,Germany,DE,DEU,83019213,Europe,7.46212807,2.63794E-06,-171,-4,Social Distancing and Wearing Masks Enforced
+05/07/2020,5,7,2020,239,2,Germany,DE,DEU,83019213,Europe,7.84517194,2.87885E-06,20,-2,Social Distancing and Wearing Masks Enforced
+04/07/2020,4,7,2020,422,7,Germany,DE,DEU,83019213,Europe,8.38480606,5.08316E-06,183,5,Social Distancing and Wearing Masks Enforced
+03/07/2020,3,7,2020,446,9,Germany,DE,DEU,83019213,Europe,8.6004188,5.37225E-06,24,2,Social Distancing and Wearing Masks Enforced
+02/07/2020,2,7,2020,503,9,Germany,DE,DEU,83019213,Europe,8.9906899,6.05884E-06,57,0,Social Distancing and Wearing Masks Enforced
+01/07/2020,1,7,2020,466,12,Germany,DE,DEU,83019213,Europe,9.08343952,5.61316E-06,-37,3,Social Distancing and Wearing Masks Enforced
+30/06/2020,30,6,2020,498,12,Germany,DE,DEU,83019213,Europe,8.93769012,5.99861E-06,32,0,Social Distancing and Wearing Masks Enforced
+29/06/2020,29,6,2020,262,4,Germany,DE,DEU,83019213,Europe,8.79314527,3.1559E-06,-236,-8,Social Distancing and Wearing Masks Enforced
+28/06/2020,28,6,2020,256,3,Germany,DE,DEU,83019213,Europe,8.70882744,3.08362E-06,-6,-1,Social Distancing and Wearing Masks Enforced
+27/06/2020,27,6,2020,687,6,Germany,DE,DEU,83019213,Europe,8.69798657,8.27519E-06,431,3,Social Distancing and Wearing Masks Enforced
+26/06/2020,26,6,2020,477,21,Germany,DE,DEU,83019213,Europe,8.28964736,5.74566E-06,-210,15,Social Distancing and Wearing Masks Enforced
+25/06/2020,25,6,2020,630,13,Germany,DE,DEU,83019213,Europe,8.025853,7.5886E-06,153,-8,Social Distancing and Wearing Masks Enforced
+24/06/2020,24,6,2020,587,19,Germany,DE,DEU,83019213,Europe,7.93551247,7.07065E-06,-43,6,Social Distancing and Wearing Masks Enforced
+23/06/2020,23,6,2020,503,10,Germany,DE,DEU,83019213,Europe,7.61149109,6.05884E-06,-84,-9,Social Distancing and Wearing Masks Enforced
+22/06/2020,22,6,2020,537,3,Germany,DE,DEU,83019213,Europe,7.4271964,6.46838E-06,34,-7,Social Distancing and Wearing Masks Enforced
+21/06/2020,21,6,2020,687,0,Germany,DE,DEU,83019213,Europe,7.03812984,8.27519E-06,150,-3,Social Distancing and Wearing Masks Enforced
+20/06/2020,20,6,2020,601,10,Germany,DE,DEU,83019213,Europe,6.57317722,7.23929E-06,-86,10,Social Distancing and Wearing Masks Enforced
+19/06/2020,19,6,2020,770,16,Germany,DE,DEU,83019213,Europe,6.33949638,9.27496E-06,169,6,Social Distancing and Wearing Masks Enforced
+18/06/2020,18,6,2020,580,26,Germany,DE,DEU,83019213,Europe,6.02270224,6.98633E-06,-190,10,Social Distancing and Wearing Masks Enforced
+17/06/2020,17,6,2020,345,30,Germany,DE,DEU,83019213,Europe,5.79865772,4.15566E-06,-235,4,Social Distancing and Wearing Masks Enforced
+16/06/2020,16,6,2020,378,9,Germany,DE,DEU,83019213,Europe,5.79504409,4.55316E-06,33,-21,Social Distancing and Wearing Masks Enforced
+15/06/2020,15,6,2020,192,4,Germany,DE,DEU,83019213,Europe,5.59629492,2.31272E-06,-186,-5,Social Distancing and Wearing Masks Enforced
+14/06/2020,14,6,2020,247,6,Germany,DE,DEU,83019213,Europe,5.76613512,2.97521E-06,55,2,Social Distancing and Wearing Masks Enforced
+13/06/2020,13,6,2020,348,18,Germany,DE,DEU,83019213,Europe,5.8131122,4.1918E-06,101,12,Social Distancing and Wearing Masks Enforced
+12/06/2020,12,6,2020,258,8,Germany,DE,DEU,83019213,Europe,6.28288298,3.10771E-06,-90,-10,Social Distancing and Wearing Masks Enforced
+11/06/2020,11,6,2020,555,26,Germany,DE,DEU,83019213,Europe,6.86467601,6.6852E-06,297,18,Social Distancing and Wearing Masks Enforced
+10/06/2020,10,6,2020,318,18,Germany,DE,DEU,83019213,Europe,6.62135884,3.83044E-06,-237,-8,Social Distancing and Wearing Masks Enforced
+09/06/2020,9,6,2020,350,37,Germany,DE,DEU,83019213,Europe,6.67435862,4.21589E-06,32,19,Social Distancing and Wearing Masks Enforced
+08/06/2020,8,6,2020,214,6,Germany,DE,DEU,83019213,Europe,6.77313094,2.57772E-06,-136,-31,Social Distancing and Wearing Masks Enforced
+07/06/2020,7,6,2020,301,22,Germany,DE,DEU,83019213,Europe,6.86347147,3.62567E-06,87,16,Social Distancing and Wearing Masks Enforced
+06/06/2020,6,6,2020,407,33,Germany,DE,DEU,83019213,Europe,7.02006173,4.90248E-06,106,11,Social Distancing and Wearing Masks Enforced
+05/06/2020,5,6,2020,507,32,Germany,DE,DEU,83019213,Europe,7.29831057,6.10702E-06,100,-1,Social Distancing and Wearing Masks Enforced
+04/06/2020,4,6,2020,394,30,Germany,DE,DEU,83019213,Europe,7.24169717,4.74589E-06,-113,-2,Social Distancing and Wearing Masks Enforced
+03/06/2020,3,6,2020,342,29,Germany,DE,DEU,83019213,Europe,7.66449087,4.11953E-06,-52,-1,Social Distancing and Wearing Masks Enforced
+02/06/2020,2,6,2020,213,11,Germany,DE,DEU,83019213,Europe,8.21255677,2.56567E-06,-129,-18,Social Distancing and Wearing Masks Enforced
+01/06/2020,1,6,2020,333,11,Germany,DE,DEU,83019213,Europe,8.57391891,4.01112E-06,120,0,Social Distancing and Wearing Masks Enforced
+31/05/2020,31,5,2020,286,11,Germany,DE,DEU,83019213,Europe,8.58475977,3.44499E-06,-47,0,Social Distancing and Wearing Masks Enforced
+30/05/2020,30,5,2020,738,39,Germany,DE,DEU,83019213,Europe,8.94250828,8.88951E-06,452,28,Social Distancing and Wearing Masks Enforced
+29/05/2020,29,5,2020,741,39,Germany,DE,DEU,83019213,Europe,8.80037251,8.92564E-06,3,0,Social Distancing and Wearing Masks Enforced
+28/05/2020,28,5,2020,353,62,Germany,DE,DEU,83019213,Europe,9.00755347,4.25203E-06,-388,23,Social Distancing and Wearing Masks Enforced
+27/05/2020,27,5,2020,362,47,Germany,DE,DEU,83019213,Europe,9.70618693,4.36044E-06,9,-15,Social Distancing and Wearing Masks Enforced
+26/05/2020,26,5,2020,432,45,Germany,DE,DEU,83019213,Europe,10.23136656,5.20361E-06,70,-2,Social Distancing and Wearing Masks Enforced
+25/05/2020,25,5,2020,289,10,Germany,DE,DEU,83019213,Europe,10.83484133,3.48112E-06,-143,-35,Social Distancing and Wearing Masks Enforced
+24/05/2020,24,5,2020,431,31,Germany,DE,DEU,83019213,Europe,10.91675008,5.19157E-06,142,21,Social Distancing and Wearing Masks Enforced
+23/05/2020,23,5,2020,638,42,Germany,DE,DEU,83019213,Europe,11.20102162,7.68497E-06,207,11,Social Distancing and Wearing Masks Enforced
+22/05/2020,22,5,2020,460,27,Germany,DE,DEU,83019213,Europe,11.93940492,5.54089E-06,-178,-15,Social Distancing and Wearing Masks Enforced
+21/05/2020,21,5,2020,745,57,Germany,DE,DEU,83019213,Europe,12.84160571,8.97383E-06,285,30,Social Distancing and Wearing Masks Enforced
+20/05/2020,20,5,2020,797,83,Germany,DE,DEU,83019213,Europe,13.49085301,9.60019E-06,52,26,Social Distancing and Wearing Masks Enforced
+19/05/2020,19,5,2020,513,72,Germany,DE,DEU,83019213,Europe,13.67153408,6.17929E-06,-284,-11,Social Distancing and Wearing Masks Enforced
+18/05/2020,18,5,2020,342,21,Germany,DE,DEU,83019213,Europe,13.87871504,4.11953E-06,-171,-51,Social Distancing and Wearing Masks Enforced
+17/05/2020,17,5,2020,583,33,Germany,DE,DEU,83019213,Europe,14.28464517,7.02247E-06,241,12,Social Distancing and Wearing Masks Enforced
+16/05/2020,16,5,2020,620,57,Germany,DE,DEU,83019213,Europe,14.53759866,7.46815E-06,37,24,Social Distancing and Wearing Masks Enforced
+15/05/2020,15,5,2020,913,101,Germany,DE,DEU,83019213,Europe,14.92907431,1.09975E-05,293,44,Social Distancing and Wearing Masks Enforced
+14/05/2020,14,5,2020,933,89,Germany,DE,DEU,83019213,Europe,15.80357067,1.12384E-05,20,-12,Social Distancing and Wearing Masks Enforced
+13/05/2020,13,5,2020,798,101,Germany,DE,DEU,83019213,Europe,16.46004522,9.61223E-06,-135,12,Social Distancing and Wearing Masks Enforced
+12/05/2020,12,5,2020,933,116,Germany,DE,DEU,83019213,Europe,17.06954269,1.12384E-05,135,15,Social Distancing and Wearing Masks Enforced
+11/05/2020,11,5,2020,357,22,Germany,DE,DEU,83019213,Europe,17.32370072,4.30021E-06,-576,-94,Social Distancing and Wearing Masks Enforced
+10/05/2020,10,5,2020,667,26,Germany,DE,DEU,83019213,Europe,18.11990196,8.03428E-06,310,4,Social Distancing and Wearing Masks Enforced
+09/05/2020,9,5,2020,1251,103,Germany,DE,DEU,83019213,Europe,19.40876023,1.50688E-05,584,77,Social Distancing and Wearing Masks Enforced
+08/05/2020,8,5,2020,1209,147,Germany,DE,DEU,83019213,Europe,20.37721075,1.45629E-05,-42,44,Social Distancing and Wearing Masks Enforced
+07/05/2020,7,5,2020,1284,123,Germany,DE,DEU,83019213,Europe,21.73593238,1.54663E-05,75,-24,Social Distancing and Wearing Masks Enforced
+06/05/2020,6,5,2020,947,165,Germany,DE,DEU,83019213,Europe,23.02238158,1.1407E-05,-337,42,Social Distancing and Wearing Masks Enforced
+05/05/2020,5,5,2020,685,139,Germany,DE,DEU,83019213,Europe,24.57623876,8.2511E-06,-262,-26,Social Distancing and Wearing Masks Enforced
+04/05/2020,4,5,2020,679,43,Germany,DE,DEU,83019213,Europe,25.90123325,8.17883E-06,-6,-96,Social Distancing and Wearing Masks Enforced
+03/05/2020,3,5,2020,793,74,Germany,DE,DEU,83019213,Europe,27.22140958,9.55201E-06,114,31,Social Distancing and Wearing Masks Enforced
+02/05/2020,2,5,2020,945,94,Germany,DE,DEU,83019213,Europe,29.22696942,1.13829E-05,152,20,Social Distancing and Wearing Masks Enforced
+01/05/2020,1,5,2020,1639,193,Germany,DE,DEU,83019213,Europe,32.43586518,1.97424E-05,694,99,Social Distancing and Wearing Masks Enforced
+30/04/2020,30,4,2020,1478,173,Germany,DE,DEU,83019213,Europe,34.5329701,1.78031E-05,-161,-20,Social Distancing and Wearing Masks Enforced
+29/04/2020,29,4,2020,1304,202,Germany,DE,DEU,83019213,Europe,36.20487224,1.57072E-05,-174,29,Social Distancing and Wearing Masks Enforced
+28/04/2020,28,4,2020,1144,163,Germany,DE,DEU,83019213,Europe,37.62863905,1.37799E-05,-160,-39,Social Distancing and Wearing Masks Enforced
+27/04/2020,27,4,2020,1018,110,Germany,DE,DEU,83019213,Europe,38.75849799,1.22622E-05,-126,-53,Social Distancing and Wearing Masks Enforced
+26/04/2020,26,4,2020,1737,140,Germany,DE,DEU,83019213,Europe,40.58819493,2.09229E-05,719,30,Social Distancing and Wearing Masks Enforced
+25/04/2020,25,4,2020,2055,179,Germany,DE,DEU,83019213,Europe,41.89391677,2.47533E-05,318,39,Social Distancing and Wearing Masks Enforced
+24/04/2020,24,4,2020,2337,227,Germany,DE,DEU,83019213,Europe,44.39695182,2.81501E-05,282,48,Social Distancing and Wearing Masks Enforced
+23/04/2020,23,4,2020,2352,215,Germany,DE,DEU,83019213,Europe,47.9937096,2.83308E-05,15,-12,Social Distancing and Wearing Masks Enforced
+22/04/2020,22,4,2020,2237,281,Germany,DE,DEU,83019213,Europe,51.15201465,2.69456E-05,-115,66,Social Distancing and Wearing Masks Enforced
+21/04/2020,21,4,2020,1785,194,Germany,DE,DEU,83019213,Europe,53.27923309,2.1501E-05,-452,-87,Social Distancing and Wearing Masks Enforced
+20/04/2020,20,4,2020,1775,110,Germany,DE,DEU,83019213,Europe,55.74733646,2.13806E-05,-10,-84,Social Distancing and Wearing Masks Enforced
+19/04/2020,19,4,2020,2458,184,Germany,DE,DEU,83019213,Europe,58.03837239,2.96076E-05,683,74,Social Distancing and Wearing Masks Enforced
+18/04/2020,18,4,2020,3609,242,Germany,DE,DEU,83019213,Europe,62.22776407,4.34719E-05,1151,58,Social Distancing and Wearing Masks Enforced
+17/04/2020,17,4,2020,3380,299,Germany,DE,DEU,83019213,Europe,65.2065926,4.07135E-05,-229,57,Social Distancing and Wearing Masks Enforced
+16/04/2020,16,4,2020,2866,315,Germany,DE,DEU,83019213,Europe,68.57207861,3.45221E-05,-514,16,Social Distancing and Wearing Masks Enforced
+15/04/2020,15,4,2020,2486,285,Germany,DE,DEU,83019213,Europe,72.53501668,2.99449E-05,-380,-30,Social Distancing and Wearing Masks Enforced
+14/04/2020,14,4,2020,2082,170,Germany,DE,DEU,83019213,Europe,76.10888819,2.50785E-05,-404,-115,Social Distancing and Wearing Masks Enforced
+13/04/2020,13,4,2020,2537,126,Germany,DE,DEU,83019213,Europe,79.15998915,3.05592E-05,455,-44,Social Distancing and Wearing Masks Enforced
+12/04/2020,12,4,2020,2821,129,Germany,DE,DEU,83019213,Europe,81.8268417,3.39801E-05,284,3,Social Distancing and Wearing Masks Enforced
+11/04/2020,11,4,2020,4133,171,Germany,DE,DEU,83019213,Europe,83.20483597,4.97837E-05,1312,42,Social Distancing and Wearing Masks Enforced
+10/04/2020,10,4,2020,5323,266,Germany,DE,DEU,83019213,Europe,85.80784788,6.41177E-05,1190,95,Social Distancing and Wearing Masks Enforced
+09/04/2020,9,4,2020,4974,246,Germany,DE,DEU,83019213,Europe,86.35832286,5.99138E-05,-349,-20,Social Distancing and Wearing Masks Enforced
+08/04/2020,8,4,2020,4003,254,Germany,DE,DEU,83019213,Europe,86.33423205,4.82178E-05,-971,8,Social Distancing and Wearing Masks Enforced
+07/04/2020,7,4,2020,3834,173,Germany,DE,DEU,83019213,Europe,84.33349037,4.61821E-05,-169,-81,Social Distancing and Wearing Masks Enforced
+06/04/2020,6,4,2020,3677,92,Germany,DE,DEU,83019213,Europe,85.0610328,4.4291E-05,-157,-81,Social Distancing and Wearing Masks Enforced
+05/04/2020,5,4,2020,5936,184,Germany,DE,DEU,83019213,Europe,84.620171,7.15015E-05,2259,92,Social Distancing and Wearing Masks Enforced
+04/04/2020,4,4,2020,6082,141,Germany,DE,DEU,83019213,Europe,81.4160934,7.32602E-05,146,-43,Social Distancing and Wearing Masks Enforced
+03/04/2020,3,4,2020,6174,145,Germany,DE,DEU,83019213,Europe,78.96726267,7.43683E-05,92,4,Social Distancing and Wearing Masks Enforced
+02/04/2020,2,4,2020,6156,140,Germany,DE,DEU,83019213,Europe,78.68540021,7.41515E-05,-18,-5,Social Distancing and Wearing Masks Enforced
+01/04/2020,1,4,2020,5453,149,Germany,DE,DEU,83019213,Europe,72.52538036,6.56836E-05,-703,9,Social Distancing and Wearing Masks Enforced
+31/03/2020,31,3,2020,4615,128,Germany,DE,DEU,83019213,Europe,67.33501557,5.55895E-05,-838,-21,Social Distancing and Wearing Masks Enforced
+30/03/2020,30,3,2020,4751,66,Germany,DE,DEU,83019213,Europe,63.19019189,5.72277E-05,136,-62,Social Distancing and Wearing Masks Enforced
+29/03/2020,29,3,2020,3965,64,Germany,DE,DEU,83019213,Europe,58.72375591,4.776E-05,-786,-2,Social Distancing and Wearing Masks Enforced
+28/03/2020,28,3,2020,6294,72,Germany,DE,DEU,83019213,Europe,54.83068118,7.58138E-05,2329,8,Social Distancing and Wearing Masks Enforced
+27/03/2020,27,3,2020,5780,55,Germany,DE,DEU,83019213,Europe,48.08405013,6.96224E-05,-514,-17,Social Distancing and Wearing Masks Enforced
+26/03/2020,26,3,2020,4954,49,Germany,DE,DEU,83019213,Europe,42.08784779,5.96729E-05,-826,-6,Social Distancing and Wearing Masks Enforced
+25/03/2020,25,3,2020,2342,23,Germany,DE,DEU,83019213,Europe,36.44698487,2.82103E-05,-2612,-26,Social Distancing and Wearing Masks Enforced
+24/03/2020,24,3,2020,4438,32,Germany,DE,DEU,83019213,Europe,33.81506399,5.34575E-05,2096,9,Social Distancing and Wearing Masks Enforced
+23/03/2020,23,3,2020,3311,27,Germany,DE,DEU,83019213,Europe,28.75478957,3.98823E-05,-1127,-5,Social Distancing and Wearing Masks Enforced
+22/03/2020,22,3,2020,3276,22,Germany,DE,DEU,83019213,Europe,24.83280587,3.94607E-05,-35,-5,Social Distancing and Wearing Masks Enforced
+21/03/2020,21,3,2020,4049,2,Germany,DE,DEU,83019213,Europe,21.08307146,4.87718E-05,773,-20,Social Distancing and Wearing Masks Enforced
+20/03/2020,20,3,2020,5940,30,Germany,DE,DEU,83019213,Europe,16.54797667,7.15497E-05,1891,28,Social Distancing and Wearing Masks Enforced
+19/03/2020,19,3,2020,1042,0,Germany,DE,DEU,83019213,Europe,9.55923299,1.25513E-05,-4898,-30,Social Distancing and Wearing Masks Enforced
+18/03/2020,18,3,2020,1144,0,Germany,DE,DEU,83019213,Europe,8.38360152,1.37799E-05,102,0,Social Distancing and Wearing Masks Enforced
+17/03/2020,17,3,2020,1174,1,Germany,DE,DEU,83019213,Europe,7.05258432,1.41413E-05,30,1,Social Distancing and Wearing Masks Enforced
+16/03/2020,16,3,2020,1043,4,Germany,DE,DEU,83019213,Europe,5.67218097,1.25634E-05,-131,3,Social Distancing and Wearing Masks Enforced
+15/03/2020,15,3,2020,733,3,Germany,DE,DEU,83019213,Europe,4.43752701,8.82928E-06,-310,-1,Social Distancing and Wearing Masks Enforced
+14/03/2020,14,3,2020,693,0,Germany,DE,DEU,83019213,Europe,3.61964405,8.34747E-06,-40,-3,Social Distancing and Wearing Masks Enforced
+13/03/2020,13,3,2020,802,2,Germany,DE,DEU,83019213,Europe,2.79694292,9.66041E-06,109,2,Social Distancing and Wearing Masks Enforced
+12/03/2020,12,3,2020,271,1,Germany,DE,DEU,83019213,Europe,1.86221953,3.2643E-06,-531,-1,Social Distancing and Wearing Masks Enforced
+11/03/2020,11,3,2020,157,0,Germany,DE,DEU,83019213,Europe,1.54060723,1.89113E-06,-114,-1,Social Distancing and Wearing Masks Enforced
+10/03/2020,10,3,2020,237,2,Germany,DE,DEU,83019213,Europe,1.35390346,2.85476E-06,80,2,Social Distancing and Wearing Masks Enforced
+09/03/2020,9,3,2020,55,0,Germany,DE,DEU,83019213,Europe,1.06842738,6.62497E-07,-182,-2,Social Distancing and Wearing Masks Enforced
+08/03/2020,8,3,2020,163,0,Germany,DE,DEU,83019213,Europe,1.00217765,1.9634E-06,108,0,Lockdown
+07/03/2020,7,3,2020,284,0,Germany,DE,DEU,83019213,Europe,0.80583756,3.42089E-06,121,0,Lockdown
+06/03/2020,6,3,2020,138,0,Germany,DE,DEU,83019213,Europe,0.46374807,1.66227E-06,-146,0,Lockdown
+05/03/2020,5,3,2020,66,0,Germany,DE,DEU,83019213,Europe,0.29752149,7.94997E-07,-72,0,Lockdown
+04/03/2020,4,3,2020,39,0,Germany,DE,DEU,83019213,Europe,0.21802182,4.69771E-07,-27,0,Lockdown
+03/03/2020,3,3,2020,28,0,Germany,DE,DEU,83019213,Europe,0.17104474,3.37271E-07,-11,0,Lockdown
+02/03/2020,2,3,2020,18,0,Germany,DE,DEU,83019213,Europe,0.13731761,2.16817E-07,-10,0,Lockdown
+01/03/2020,1,3,2020,54,0,Germany,DE,DEU,83019213,Europe,0.11563588,6.50452E-07,36,0,Lockdown
+29/02/2020,29,2,2020,10,0,Germany,DE,DEU,83019213,Europe,0.0505907,1.20454E-07,-44,0,Lockdown
+28/02/2020,28,2,2020,26,0,Germany,DE,DEU,83019213,Europe,0.03854529,3.13181E-07,16,0,Lockdown
+27/02/2020,27,2,2020,4,0,Germany,DE,DEU,83019213,Europe,0.00722724,4.81816E-08,-22,0,Lockdown
+26/02/2020,26,2,2020,2,0,Germany,DE,DEU,83019213,Europe,0.00240908,2.40908E-08,-2,0,Lockdown
+25/02/2020,25,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.00240908,0,-2,0,Lockdown
+24/02/2020,24,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.00240908,0,0,0,Lockdown
+23/02/2020,23,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.00240908,0,0,0,Lockdown
+22/02/2020,22,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.00240908,0,0,0,Lockdown
+21/02/2020,21,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.00361362,0,0,0,Lockdown
+20/02/2020,20,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.00481816,0,0,0,Lockdown
+19/02/2020,19,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.00481816,0,0,0,Lockdown
+18/02/2020,18,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.00481816,0,0,0,Lockdown
+17/02/2020,17,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.00722724,0,0,0,Lockdown
+16/02/2020,16,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.00843178,0,0,0,Lockdown
+15/02/2020,15,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.00963632,0,0,0,Lockdown
+14/02/2020,14,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.0120454,0,0,0,Lockdown
+13/02/2020,13,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.01324994,0,0,0,Lockdown
+12/02/2020,12,2,2020,2,0,Germany,DE,DEU,83019213,Europe,0.01324994,2.40908E-08,2,0,Lockdown
+11/02/2020,11,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.01445449,0,-2,0,Lockdown
+10/02/2020,10,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.01565903,0,0,0,Lockdown
+09/02/2020,9,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.01565903,0,0,0,Lockdown
+08/02/2020,8,2,2020,1,0,Germany,DE,DEU,83019213,Europe,0.01565903,1.20454E-08,1,0,Lockdown
+07/02/2020,7,2,2020,1,0,Germany,DE,DEU,83019213,Europe,0.01445449,1.20454E-08,0,0,Lockdown
+06/02/2020,6,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.01324994,0,-1,0,Lockdown
+05/02/2020,5,2,2020,0,0,Germany,DE,DEU,83019213,Europe,0.01324994,0,0,0,Lockdown
+04/02/2020,4,2,2020,2,0,Germany,DE,DEU,83019213,Europe,0.01324994,2.40908E-08,2,0,Lockdown
+03/02/2020,3,2,2020,1,0,Germany,DE,DEU,83019213,Europe,0.01084086,1.20454E-08,-1,0,Lockdown
+02/02/2020,2,2,2020,1,0,Germany,DE,DEU,83019213,Europe,0.00963632,1.20454E-08,0,0,Lockdown
+01/02/2020,1,2,2020,2,0,Germany,DE,DEU,83019213,Europe,0.00843178,2.40908E-08,1,0,Lockdown
+31/01/2020,31,1,2020,1,0,Germany,DE,DEU,83019213,Europe,0.0060227,1.20454E-08,-1,0,Lockdown
+30/01/2020,30,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0.00481816,0,-1,0,Lockdown
+29/01/2020,29,1,2020,3,0,Germany,DE,DEU,83019213,Europe,0.00481816,3.61362E-08,3,0,Lockdown
+28/01/2020,28,1,2020,1,0,Germany,DE,DEU,83019213,Europe,0.00120454,1.20454E-08,-2,0,Lockdown
+27/01/2020,27,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,-1,0,Lockdown
+26/01/2020,26,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,0,0,Lockdown
+25/01/2020,25,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,0,0,Lockdown
+24/01/2020,24,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,0,0,Lockdown
+23/01/2020,23,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,0,0,Lockdown
+22/01/2020,22,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,0,0,Lockdown
+21/01/2020,21,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,0,0,Lockdown
+20/01/2020,20,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,0,0,Lockdown
+19/01/2020,19,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,0,0,Lockdown
+18/01/2020,18,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,0,0,Lockdown
+17/01/2020,17,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,0,0,Lockdown
+16/01/2020,16,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,0,0,Lockdown
+15/01/2020,15,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,0,0,Lockdown
+14/01/2020,14,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,0,0,Lockdown
+13/01/2020,13,1,2020,0,0,Germany,DE,DEU,83019213,Europe,0,0,0,0,Lockdown
+12/01/2020,12,1,2020,0,0,Germany,DE,DEU,83019213,Europe,,0,0,0,Lockdown
+11/01/2020,11,1,2020,0,0,Germany,DE,DEU,83019213,Europe,,0,0,0,Lockdown
+10/01/2020,10,1,2020,0,0,Germany,DE,DEU,83019213,Europe,,0,0,0,Lockdown
+09/01/2020,9,1,2020,0,0,Germany,DE,DEU,83019213,Europe,,0,0,0,Lockdown
+08/01/2020,8,1,2020,0,0,Germany,DE,DEU,83019213,Europe,,0,0,0,Lockdown
+07/01/2020,7,1,2020,0,0,Germany,DE,DEU,83019213,Europe,,0,0,0,Lockdown
+06/01/2020,6,1,2020,0,0,Germany,DE,DEU,83019213,Europe,,0,0,0,Lockdown
+05/01/2020,5,1,2020,0,0,Germany,DE,DEU,83019213,Europe,,0,0,0,Lockdown
+04/01/2020,4,1,2020,0,0,Germany,DE,DEU,83019213,Europe,,0,0,0,Lockdown
+03/01/2020,3,1,2020,0,0,Germany,DE,DEU,83019213,Europe,,0,0,0,Lockdown
+02/01/2020,2,1,2020,0,0,Germany,DE,DEU,83019213,Europe,,0,0,0,Lockdown
+01/01/2020,1,1,2020,0,0,Germany,DE,DEU,83019213,Europe,,0,0,0,Lockdown
+31/12/2019,31,12,2019,0,0,Germany,DE,DEU,83019213,Europe,,0,0,0,Lockdown

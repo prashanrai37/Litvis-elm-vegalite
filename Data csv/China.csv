@@ -1,0 +1,346 @@
+dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterritoryCode,popData2019,continentExp,Cumulative_number_for_14_days_of_COVID-19_cases_per_100000,As of Population,Change case,Change Death,Measures
+09/12/2020,9,12,2020,15,0,China,CN,CHN,1433783692,Asia,0.01304241,1.04618E-08,#VALUE!,#VALUE!,Social Distancing and Wearing Masks Enforced
+08/12/2020,8,12,2020,12,0,China,CN,CHN,1433783692,Asia,0.01234496,8.36946E-09,-3,0,Social Distancing and Wearing Masks Enforced
+07/12/2020,7,12,2020,15,0,China,CN,CHN,1433783692,Asia,0.01304241,1.04618E-08,3,0,Social Distancing and Wearing Masks Enforced
+06/12/2020,6,12,2020,18,0,China,CN,CHN,1433783692,Asia,0.01276343,1.25542E-08,3,0,Social Distancing and Wearing Masks Enforced
+05/12/2020,5,12,2020,17,0,China,CN,CHN,1433783692,Asia,0.01262394,1.18567E-08,-1,0,Social Distancing and Wearing Masks Enforced
+04/12/2020,4,12,2020,17,0,China,CN,CHN,1433783692,Asia,0.01255419,1.18567E-08,0,0,Social Distancing and Wearing Masks Enforced
+03/12/2020,3,12,2020,16,0,China,CN,CHN,1433783692,Asia,0.01255419,1.11593E-08,-1,0,Social Distancing and Wearing Masks Enforced
+02/12/2020,2,12,2020,9,0,China,CN,CHN,1433783692,Asia,0.01227521,6.2771E-09,-7,0,Social Distancing and Wearing Masks Enforced
+01/12/2020,1,12,2020,12,0,China,CN,CHN,1433783692,Asia,0.01220547,8.36946E-09,3,0,Social Distancing and Wearing Masks Enforced
+30/11/2020,30,11,2020,18,0,China,CN,CHN,1433783692,Asia,0.0124147,1.25542E-08,6,0,Social Distancing and Wearing Masks Enforced
+29/11/2020,29,11,2020,6,0,China,CN,CHN,1433783692,Asia,0.0116475,4.18473E-09,-12,0,Social Distancing and Wearing Masks Enforced
+28/11/2020,28,11,2020,6,0,China,CN,CHN,1433783692,Asia,0.01199623,4.18473E-09,0,0,Social Distancing and Wearing Masks Enforced
+27/11/2020,27,11,2020,5,0,China,CN,CHN,1433783692,Asia,0.01262394,3.48728E-09,-1,0,Social Distancing and Wearing Masks Enforced
+26/11/2020,26,11,2020,21,0,China,CN,CHN,1433783692,Asia,0.01227521,1.46466E-08,16,0,Social Distancing and Wearing Masks Enforced
+25/11/2020,25,11,2020,5,0,China,CN,CHN,1433783692,Asia,0.01150801,3.48728E-09,-16,0,Social Distancing and Wearing Masks Enforced
+24/11/2020,24,11,2020,22,0,China,CN,CHN,1433783692,Asia,0.01206598,1.5344E-08,17,0,Social Distancing and Wearing Masks Enforced
+23/11/2020,23,11,2020,11,0,China,CN,CHN,1433783692,Asia,0.01192649,7.67201E-09,-11,0,Social Distancing and Wearing Masks Enforced
+22/11/2020,22,11,2020,16,0,China,CN,CHN,1433783692,Asia,0.01339114,1.11593E-08,5,0,Social Distancing and Wearing Masks Enforced
+21/11/2020,21,11,2020,16,0,China,CN,CHN,1433783692,Asia,0.01394911,1.11593E-08,0,0,Social Distancing and Wearing Masks Enforced
+20/11/2020,20,11,2020,17,0,China,CN,CHN,1433783692,Asia,0.01513478,1.18567E-08,1,0,Social Distancing and Wearing Masks Enforced
+19/11/2020,19,11,2020,12,0,China,CN,CHN,1433783692,Asia,0.01618096,8.36946E-09,-5,0,Social Distancing and Wearing Masks Enforced
+18/11/2020,18,11,2020,8,0,China,CN,CHN,1433783692,Asia,0.01722715,5.57964E-09,-4,0,Social Distancing and Wearing Masks Enforced
+17/11/2020,17,11,2020,15,0,China,CN,CHN,1433783692,Asia,0.01778511,1.04618E-08,7,0,Social Distancing and Wearing Masks Enforced
+16/11/2020,16,11,2020,7,0,China,CN,CHN,1433783692,Asia,0.02015646,4.88219E-09,-8,0,Social Distancing and Wearing Masks Enforced
+15/11/2020,15,11,2020,11,0,China,CN,CHN,1433783692,Asia,0.02134213,7.67201E-09,4,0,Social Distancing and Wearing Masks Enforced
+14/11/2020,14,11,2020,15,0,China,CN,CHN,1433783692,Asia,0.02224882,1.04618E-08,4,0,Social Distancing and Wearing Masks Enforced
+13/11/2020,13,11,2020,0,0,China,CN,CHN,1433783692,Asia,0.02350424,0,-15,0,Social Distancing and Wearing Masks Enforced
+12/11/2020,12,11,2020,10,0,China,CN,CHN,1433783692,Asia,0.02524788,6.97455E-09,10,0,Social Distancing and Wearing Masks Enforced
+11/11/2020,11,11,2020,13,0,China,CN,CHN,1433783692,Asia,0.02622432,9.06692E-09,3,0,Social Distancing and Wearing Masks Enforced
+10/11/2020,10,11,2020,20,0,China,CN,CHN,1433783692,Asia,0.02824694,1.39491E-08,7,0,Social Distancing and Wearing Masks Enforced
+09/11/2020,9,11,2020,32,0,China,CN,CHN,1433783692,Asia,0.02852592,2.23186E-08,12,0,Social Distancing and Wearing Masks Enforced
+08/11/2020,8,11,2020,24,0,China,CN,CHN,1433783692,Asia,0.02810745,1.67389E-08,-8,0,Social Distancing and Wearing Masks Enforced
+07/11/2020,7,11,2020,33,0,China,CN,CHN,1433783692,Asia,0.02775872,2.3016E-08,9,0,Social Distancing and Wearing Masks Enforced
+06/11/2020,6,11,2020,32,0,China,CN,CHN,1433783692,Asia,0.02775872,2.23186E-08,-1,0,Social Distancing and Wearing Masks Enforced
+05/11/2020,5,11,2020,27,0,China,CN,CHN,1433783692,Asia,0.02754948,1.88313E-08,-5,0,Social Distancing and Wearing Masks Enforced
+04/11/2020,4,11,2020,16,0,China,CN,CHN,1433783692,Asia,0.02720076,1.11593E-08,-11,0,Social Distancing and Wearing Masks Enforced
+03/11/2020,3,11,2020,49,0,China,CN,CHN,1433783692,Asia,0.02720076,3.41753E-08,33,0,Social Distancing and Wearing Masks Enforced
+02/11/2020,2,11,2020,24,0,China,CN,CHN,1433783692,Asia,0.02615457,1.67389E-08,-25,0,Social Distancing and Wearing Masks Enforced
+01/11/2020,1,11,2020,24,0,China,CN,CHN,1433783692,Asia,0.02566635,1.67389E-08,0,0,Social Distancing and Wearing Masks Enforced
+31/10/2020,31,10,2020,33,0,China,CN,CHN,1433783692,Asia,0.02608483,2.3016E-08,9,0,Social Distancing and Wearing Masks Enforced
+30/10/2020,30,10,2020,25,0,China,CN,CHN,1433783692,Asia,0.02517814,1.74364E-08,-8,0,Social Distancing and Wearing Masks Enforced
+29/10/2020,29,10,2020,24,0,China,CN,CHN,1433783692,Asia,0.02594534,1.67389E-08,-1,0,Social Distancing and Wearing Masks Enforced
+28/10/2020,28,10,2020,42,0,China,CN,CHN,1433783692,Asia,0.02503864,2.92931E-08,18,0,Social Distancing and Wearing Masks Enforced
+27/10/2020,27,10,2020,24,0,China,CN,CHN,1433783692,Asia,0.02406221,1.67389E-08,-18,0,Social Distancing and Wearing Masks Enforced
+26/10/2020,26,10,2020,26,0,China,CN,CHN,1433783692,Asia,0.02364373,1.81338E-08,2,0,Social Distancing and Wearing Masks Enforced
+25/10/2020,25,10,2020,19,0,China,CN,CHN,1433783692,Asia,0.0242017,1.32517E-08,-7,0,Social Distancing and Wearing Masks Enforced
+24/10/2020,24,10,2020,33,0,China,CN,CHN,1433783692,Asia,0.02434119,2.3016E-08,14,0,Social Distancing and Wearing Masks Enforced
+23/10/2020,23,10,2020,29,0,China,CN,CHN,1433783692,Asia,0.02406221,2.02262E-08,-4,0,Social Distancing and Wearing Masks Enforced
+22/10/2020,22,10,2020,22,0,China,CN,CHN,1433783692,Asia,0.02475966,1.5344E-08,-7,0,Social Distancing and Wearing Masks Enforced
+21/10/2020,21,10,2020,16,0,China,CN,CHN,1433783692,Asia,0.02475966,1.11593E-08,-6,0,Social Distancing and Wearing Masks Enforced
+20/10/2020,20,10,2020,34,0,China,CN,CHN,1433783692,Asia,0.02468992,2.37135E-08,18,0,Social Distancing and Wearing Masks Enforced
+19/10/2020,19,10,2020,17,0,China,CN,CHN,1433783692,Asia,0.02392272,1.18567E-08,-17,0,Social Distancing and Wearing Masks Enforced
+18/10/2020,18,10,2020,30,0,China,CN,CHN,1433783692,Asia,0.02448068,2.09237E-08,13,0,Social Distancing and Wearing Masks Enforced
+17/10/2020,17,10,2020,20,0,China,CN,CHN,1433783692,Asia,0.02378322,1.39491E-08,-10,0,Social Distancing and Wearing Masks Enforced
+16/10/2020,16,10,2020,36,0,China,CN,CHN,1433783692,Asia,0.02357399,2.51084E-08,16,0,Social Distancing and Wearing Masks Enforced
+15/10/2020,15,10,2020,11,0,China,CN,CHN,1433783692,Asia,0.02378322,7.67201E-09,-25,0,Social Distancing and Wearing Masks Enforced
+14/10/2020,14,10,2020,28,0,China,CN,CHN,1433783692,Asia,0.02301602,1.95287E-08,17,0,Social Distancing and Wearing Masks Enforced
+13/10/2020,13,10,2020,18,0,China,CN,CHN,1433783692,Asia,0.0226673,1.25542E-08,-10,0,Social Distancing and Wearing Masks Enforced
+12/10/2020,12,10,2020,34,0,China,CN,CHN,1433783692,Asia,0.02294628,2.37135E-08,16,0,Social Distancing and Wearing Masks Enforced
+11/10/2020,11,10,2020,21,0,China,CN,CHN,1433783692,Asia,0.02245806,1.46466E-08,-13,0,Social Distancing and Wearing Masks Enforced
+10/10/2020,10,10,2020,29,0,China,CN,CHN,1433783692,Asia,0.02203959,2.02262E-08,8,0,Social Distancing and Wearing Masks Enforced
+09/10/2020,9,10,2020,39,0,China,CN,CHN,1433783692,Asia,0.02120264,2.72008E-08,10,0,Social Distancing and Wearing Masks Enforced
+08/10/2020,8,10,2020,22,0,China,CN,CHN,1433783692,Asia,0.01952875,1.5344E-08,-17,0,Social Distancing and Wearing Masks Enforced
+07/10/2020,7,10,2020,15,0,China,CN,CHN,1433783692,Asia,0.0186918,1.04618E-08,-7,0,Social Distancing and Wearing Masks Enforced
+06/10/2020,6,10,2020,23,0,China,CN,CHN,1433783692,Asia,0.01890104,1.60415E-08,8,0,Social Distancing and Wearing Masks Enforced
+05/10/2020,5,10,2020,25,0,China,CN,CHN,1433783692,Asia,0.01813384,1.74364E-08,2,0,Social Distancing and Wearing Masks Enforced
+04/10/2020,4,10,2020,20,0,China,CN,CHN,1433783692,Asia,0.01890104,1.39491E-08,-5,0,Social Distancing and Wearing Masks Enforced
+03/10/2020,3,10,2020,17,0,China,CN,CHN,1433783692,Asia,0.01924977,1.18567E-08,-3,0,Social Distancing and Wearing Masks Enforced
+02/10/2020,2,10,2020,39,0,China,CN,CHN,1433783692,Asia,0.01904053,2.72008E-08,22,0,Social Distancing and Wearing Masks Enforced
+01/10/2020,1,10,2020,0,0,China,CN,CHN,1433783692,Asia,0.01938926,0,-39,0,Social Distancing and Wearing Masks Enforced
+30/09/2020,30,9,2020,23,0,China,CN,CHN,1433783692,Asia,0.01987748,1.60415E-08,23,0,Social Distancing and Wearing Masks Enforced
+29/09/2020,29,9,2020,22,0,China,CN,CHN,1433783692,Asia,0.01994722,1.5344E-08,-1,0,Social Distancing and Wearing Masks Enforced
+28/09/2020,28,9,2020,27,0,China,CN,CHN,1433783692,Asia,0.01994722,1.88313E-08,5,0,Social Distancing and Wearing Masks Enforced
+27/09/2020,27,9,2020,15,0,China,CN,CHN,1433783692,Asia,0.02008671,1.04618E-08,-12,0,Social Distancing and Wearing Masks Enforced
+26/09/2020,26,9,2020,17,1,China,CN,CHN,1433783692,Asia,0.02064468,1.18567E-08,2,1,Social Distancing and Wearing Masks Enforced
+25/09/2020,25,9,2020,15,0,China,CN,CHN,1433783692,Asia,0.02071442,1.04618E-08,-2,-1,Social Distancing and Wearing Masks Enforced
+24/09/2020,24,9,2020,10,1,China,CN,CHN,1433783692,Asia,0.02155137,6.97455E-09,-5,1,Social Distancing and Wearing Masks Enforced
+23/09/2020,23,9,2020,18,0,China,CN,CHN,1433783692,Asia,0.0217606,1.25542E-08,8,-1,Social Distancing and Wearing Masks Enforced
+22/09/2020,22,9,2020,12,0,China,CN,CHN,1433783692,Asia,0.02106315,8.36946E-09,-6,0,Social Distancing and Wearing Masks Enforced
+21/09/2020,21,9,2020,36,0,China,CN,CHN,1433783692,Asia,0.02169086,2.51084E-08,24,0,Social Distancing and Wearing Masks Enforced
+20/09/2020,20,9,2020,25,0,China,CN,CHN,1433783692,Asia,0.02148162,1.74364E-08,-11,0,Social Distancing and Wearing Masks Enforced
+19/09/2020,19,9,2020,14,1,China,CN,CHN,1433783692,Asia,0.02092366,9.76437E-09,-11,1,Social Distancing and Wearing Masks Enforced
+18/09/2020,18,9,2020,44,0,China,CN,CHN,1433783692,Asia,0.02148162,3.0688E-08,30,-1,Social Distancing and Wearing Masks Enforced
+17/09/2020,17,9,2020,7,0,China,CN,CHN,1433783692,Asia,0.02071442,4.88219E-09,-37,0,Social Distancing and Wearing Masks Enforced
+16/09/2020,16,9,2020,24,1,China,CN,CHN,1433783692,Asia,0.02155137,1.67389E-08,17,1,Social Distancing and Wearing Masks Enforced
+15/09/2020,15,9,2020,22,1,China,CN,CHN,1433783692,Asia,0.02127239,1.5344E-08,-2,0,Social Distancing and Wearing Masks Enforced
+14/09/2020,14,9,2020,29,0,China,CN,CHN,1433783692,Asia,0.02106315,2.02262E-08,7,-1,Social Distancing and Wearing Masks Enforced
+13/09/2020,13,9,2020,23,1,China,CN,CHN,1433783692,Asia,0.02127239,1.60415E-08,-6,1,Social Distancing and Wearing Masks Enforced
+12/09/2020,12,9,2020,18,0,China,CN,CHN,1433783692,Asia,0.02155137,1.25542E-08,-5,-1,Social Distancing and Wearing Masks Enforced
+11/09/2020,11,9,2020,27,0,China,CN,CHN,1433783692,Asia,0.02183035,1.88313E-08,9,0,Social Distancing and Wearing Masks Enforced
+10/09/2020,10,9,2020,13,0,China,CN,CHN,1433783692,Asia,0.02203959,9.06692E-09,-14,0,Social Distancing and Wearing Masks Enforced
+09/09/2020,9,9,2020,8,1,China,CN,CHN,1433783692,Asia,0.02336475,5.57964E-09,-5,1,Social Distancing and Wearing Masks Enforced
+08/09/2020,8,9,2020,21,2,China,CN,CHN,1433783692,Asia,0.02517814,1.46466E-08,13,1,Social Distancing and Wearing Masks Enforced
+07/09/2020,7,9,2020,33,2,China,CN,CHN,1433783692,Asia,0.02531763,2.3016E-08,12,0,Social Distancing and Wearing Masks Enforced
+06/09/2020,6,9,2020,17,0,China,CN,CHN,1433783692,Asia,0.02587559,1.18567E-08,-16,-2,Social Distancing and Wearing Masks Enforced
+05/09/2020,5,9,2020,22,0,China,CN,CHN,1433783692,Asia,0.02734025,1.5344E-08,5,0,Social Distancing and Wearing Masks Enforced
+04/09/2020,4,9,2020,33,1,China,CN,CHN,1433783692,Asia,0.02922338,2.3016E-08,11,1,Social Distancing and Wearing Masks Enforced
+03/09/2020,3,9,2020,19,3,China,CN,CHN,1433783692,Asia,0.02971159,1.32517E-08,-14,2,Social Distancing and Wearing Masks Enforced
+02/09/2020,2,9,2020,20,1,China,CN,CHN,1433783692,Asia,0.03068803,1.39491E-08,1,-2,Social Distancing and Wearing Masks Enforced
+01/09/2020,1,9,2020,19,1,China,CN,CHN,1433783692,Asia,0.03298963,1.32517E-08,-1,0,Social Distancing and Wearing Masks Enforced
+31/08/2020,31,8,2020,32,1,China,CN,CHN,1433783692,Asia,0.03626767,2.23186E-08,13,0,Social Distancing and Wearing Masks Enforced
+30/08/2020,30,8,2020,27,3,China,CN,CHN,1433783692,Asia,0.04073139,1.88313E-08,-5,2,Social Distancing and Wearing Masks Enforced
+29/08/2020,29,8,2020,22,3,China,CN,CHN,1433783692,Asia,0.04338172,1.5344E-08,-5,0,Social Distancing and Wearing Masks Enforced
+28/08/2020,28,8,2020,30,2,China,CN,CHN,1433783692,Asia,0.0467295,2.09237E-08,8,-1,Social Distancing and Wearing Masks Enforced
+27/08/2020,27,8,2020,32,1,China,CN,CHN,1433783692,Asia,0.05154194,2.23186E-08,2,-1,Social Distancing and Wearing Masks Enforced
+26/08/2020,26,8,2020,34,1,China,CN,CHN,1433783692,Asia,0.05495948,2.37135E-08,2,0,Social Distancing and Wearing Masks Enforced
+25/08/2020,25,8,2020,23,0,China,CN,CHN,1433783692,Asia,0.05663337,1.60415E-08,-11,-1,Social Distancing and Wearing Masks Enforced
+24/08/2020,24,8,2020,41,0,China,CN,CHN,1433783692,Asia,0.06291047,2.85957E-08,18,0,Social Distancing and Wearing Masks Enforced
+23/08/2020,23,8,2020,38,0,China,CN,CHN,1433783692,Asia,0.06849011,2.65033E-08,-3,0,Social Distancing and Wearing Masks Enforced
+22/08/2020,22,8,2020,49,2,China,CN,CHN,1433783692,Asia,0.07225637,3.41753E-08,11,2,Social Distancing and Wearing Masks Enforced
+21/08/2020,21,8,2020,40,3,China,CN,CHN,1433783692,Asia,0.0772083,2.78982E-08,-9,1,Social Distancing and Wearing Masks Enforced
+20/08/2020,20,8,2020,33,1,China,CN,CHN,1433783692,Asia,0.08362489,2.3016E-08,-7,-2,Social Distancing and Wearing Masks Enforced
+19/08/2020,19,8,2020,53,2,China,CN,CHN,1433783692,Asia,0.08983224,3.69651E-08,20,1,Social Distancing and Wearing Masks Enforced
+18/08/2020,18,8,2020,66,0,China,CN,CHN,1433783692,Asia,0.0935985,4.6032E-08,13,-2,Social Distancing and Wearing Masks Enforced
+17/08/2020,17,8,2020,96,0,China,CN,CHN,1433783692,Asia,0.09694628,6.69557E-08,30,0,Social Distancing and Wearing Masks Enforced
+16/08/2020,16,8,2020,65,2,China,CN,CHN,1433783692,Asia,0.10127051,4.53346E-08,-31,2,Social Distancing and Wearing Masks Enforced
+15/08/2020,15,8,2020,70,1,China,CN,CHN,1433783692,Asia,0.10873328,4.88219E-08,5,-1,Social Distancing and Wearing Masks Enforced
+14/08/2020,14,8,2020,99,3,China,CN,CHN,1433783692,Asia,0.11542885,6.90481E-08,29,2,Social Distancing and Wearing Masks Enforced
+13/08/2020,13,8,2020,81,4,China,CN,CHN,1433783692,Asia,0.12777381,5.64939E-08,-18,1,Social Distancing and Wearing Masks Enforced
+12/08/2020,12,8,2020,58,3,China,CN,CHN,1433783692,Asia,0.13767767,4.04524E-08,-23,-1,Social Distancing and Wearing Masks Enforced
+11/08/2020,11,8,2020,113,4,China,CN,CHN,1433783692,Asia,0.14806976,7.88124E-08,55,1,Social Distancing and Wearing Masks Enforced
+10/08/2020,10,8,2020,121,5,China,CN,CHN,1433783692,Asia,0.15504431,8.43921E-08,8,1,Social Distancing and Wearing Masks Enforced
+09/08/2020,9,8,2020,92,0,China,CN,CHN,1433783692,Asia,0.159787,6.41659E-08,-29,-5,Social Distancing and Wearing Masks Enforced
+08/08/2020,8,8,2020,120,1,China,CN,CHN,1433783692,Asia,0.16585486,8.36946E-08,28,1,Social Distancing and Wearing Masks Enforced
+07/08/2020,7,8,2020,132,3,China,CN,CHN,1433783692,Asia,0.16843545,9.20641E-08,12,2,Social Distancing and Wearing Masks Enforced
+06/08/2020,6,8,2020,122,1,China,CN,CHN,1433783692,Asia,0.16892367,8.50895E-08,-10,-2,Social Distancing and Wearing Masks Enforced
+05/08/2020,5,8,2020,107,4,China,CN,CHN,1433783692,Asia,0.16983036,7.46277E-08,-15,3,Social Distancing and Wearing Masks Enforced
+04/08/2020,4,8,2020,114,3,China,CN,CHN,1433783692,Asia,0.16752876,7.95099E-08,7,-1,Social Distancing and Wearing Masks Enforced
+03/08/2020,3,8,2020,158,2,China,CN,CHN,1433783692,Asia,0.16543639,1.10198E-07,44,-1,Social Distancing and Wearing Masks Enforced
+02/08/2020,2,8,2020,172,6,China,CN,CHN,1433783692,Asia,0.16348352,1.19962E-07,14,4,Social Distancing and Wearing Masks Enforced
+01/08/2020,1,8,2020,166,2,China,CN,CHN,1433783692,Asia,0.15706693,1.15778E-07,-6,-4,Social Distancing and Wearing Masks Enforced
+31/07/2020,31,7,2020,276,0,China,CN,CHN,1433783692,Asia,0.15106881,1.92498E-07,110,-2,Social Distancing and Wearing Masks Enforced
+30/07/2020,30,7,2020,223,2,China,CN,CHN,1433783692,Asia,0.13718945,1.55533E-07,-53,2,Social Distancing and Wearing Masks Enforced
+29/07/2020,29,7,2020,207,1,China,CN,CHN,1433783692,Asia,0.12303111,1.44373E-07,-16,-1,Social Distancing and Wearing Masks Enforced
+28/07/2020,28,7,2020,213,4,China,CN,CHN,1433783692,Asia,0.11236004,1.48558E-07,6,3,Social Distancing and Wearing Masks Enforced
+27/07/2020,27,7,2020,189,0,China,CN,CHN,1433783692,Asia,0.10134025,1.31819E-07,-24,-4,Social Distancing and Wearing Masks Enforced
+26/07/2020,26,7,2020,179,2,China,CN,CHN,1433783692,Asia,0.09136664,1.24844E-07,-10,2,Social Distancing and Wearing Masks Enforced
+25/07/2020,25,7,2020,157,1,China,CN,CHN,1433783692,Asia,0.08132329,1.095E-07,-22,-1,Social Distancing and Wearing Masks Enforced
+24/07/2020,24,7,2020,139,1,China,CN,CHN,1433783692,Asia,0.07316306,9.69463E-08,-18,0,Social Distancing and Wearing Masks Enforced
+23/07/2020,23,7,2020,135,0,China,CN,CHN,1433783692,Asia,0.06667672,9.41565E-08,-4,-1,Social Distancing and Wearing Masks Enforced
+22/07/2020,22,7,2020,74,2,China,CN,CHN,1433783692,Asia,0.05956268,5.16117E-08,-61,2,Social Distancing and Wearing Masks Enforced
+21/07/2020,21,7,2020,84,0,China,CN,CHN,1433783692,Asia,0.05586617,5.85862E-08,10,-2,Social Distancing and Wearing Masks Enforced
+20/07/2020,20,7,2020,130,0,China,CN,CHN,1433783692,Asia,0.05175118,9.06692E-08,46,0,Social Distancing and Wearing Masks Enforced
+19/07/2020,19,7,2020,80,1,China,CN,CHN,1433783692,Asia,0.0436607,5.57964E-08,-50,1,Social Distancing and Wearing Masks Enforced
+18/07/2020,18,7,2020,80,1,China,CN,CHN,1433783692,Asia,0.03933648,5.57964E-08,0,0,Social Distancing and Wearing Masks Enforced
+17/07/2020,17,7,2020,77,0,China,CN,CHN,1433783692,Asia,0.03438455,5.37041E-08,-3,-1,Social Distancing and Wearing Masks Enforced
+16/07/2020,16,7,2020,20,2,China,CN,CHN,1433783692,Asia,0.02999058,1.39491E-08,-57,2,Social Distancing and Wearing Masks Enforced
+15/07/2020,15,7,2020,54,0,China,CN,CHN,1433783692,Asia,0.03075778,3.76626E-08,34,-2,Social Distancing and Wearing Masks Enforced
+14/07/2020,14,7,2020,55,1,China,CN,CHN,1433783692,Asia,0.02734025,3.836E-08,1,1,Social Distancing and Wearing Masks Enforced
+13/07/2020,13,7,2020,46,0,China,CN,CHN,1433783692,Asia,0.02510839,3.20829E-08,-9,-1,Social Distancing and Wearing Masks Enforced
+12/07/2020,12,7,2020,35,0,China,CN,CHN,1433783692,Asia,0.02287653,2.44109E-08,-11,0,Social Distancing and Wearing Masks Enforced
+11/07/2020,11,7,2020,40,0,China,CN,CHN,1433783692,Asia,0.02169086,2.78982E-08,5,0,Social Distancing and Wearing Masks Enforced
+10/07/2020,10,7,2020,46,0,China,CN,CHN,1433783692,Asia,0.02057493,3.20829E-08,6,0,Social Distancing and Wearing Masks Enforced
+09/07/2020,9,7,2020,33,0,China,CN,CHN,1433783692,Asia,0.01931951,2.3016E-08,-13,0,Social Distancing and Wearing Masks Enforced
+08/07/2020,8,7,2020,21,0,China,CN,CHN,1433783692,Asia,0.01841282,1.46466E-08,-12,0,Social Distancing and Wearing Masks Enforced
+07/07/2020,7,7,2020,25,0,China,CN,CHN,1433783692,Asia,0.01897078,1.74364E-08,4,0,Social Distancing and Wearing Masks Enforced
+06/07/2020,6,7,2020,14,0,China,CN,CHN,1433783692,Asia,0.02085391,9.76437E-09,-11,0,Social Distancing and Wearing Masks Enforced
+05/07/2020,5,7,2020,18,0,China,CN,CHN,1433783692,Asia,0.02120264,1.25542E-08,4,0,Social Distancing and Wearing Masks Enforced
+04/07/2020,4,7,2020,9,0,China,CN,CHN,1433783692,Asia,0.02196984,6.2771E-09,-9,0,Social Distancing and Wearing Masks Enforced
+03/07/2020,3,7,2020,14,0,China,CN,CHN,1433783692,Asia,0.0234345,9.76437E-09,5,0,Social Distancing and Wearing Masks Enforced
+02/07/2020,2,7,2020,31,0,China,CN,CHN,1433783692,Asia,0.0249689,2.16211E-08,17,0,Social Distancing and Wearing Masks Enforced
+01/07/2020,1,7,2020,5,0,China,CN,CHN,1433783692,Asia,0.02531763,3.48728E-09,-26,0,Social Distancing and Wearing Masks Enforced
+30/06/2020,30,6,2020,23,0,China,CN,CHN,1433783692,Asia,0.0280377,1.60415E-08,18,0,Social Distancing and Wearing Masks Enforced
+29/06/2020,29,6,2020,14,0,China,CN,CHN,1433783692,Asia,0.02943261,9.76437E-09,-9,0,Social Distancing and Wearing Masks Enforced
+28/06/2020,28,6,2020,18,0,China,CN,CHN,1433783692,Asia,0.03173422,1.25542E-08,4,0,Social Distancing and Wearing Masks Enforced
+27/06/2020,27,6,2020,24,0,China,CN,CHN,1433783692,Asia,0.03466353,1.67389E-08,6,0,Social Distancing and Wearing Masks Enforced
+26/06/2020,26,6,2020,28,1,China,CN,CHN,1433783692,Asia,0.03382658,1.95287E-08,4,1,Social Distancing and Wearing Masks Enforced
+25/06/2020,25,6,2020,20,0,China,CN,CHN,1433783692,Asia,0.03236192,1.39491E-08,-8,-1,Social Distancing and Wearing Masks Enforced
+24/06/2020,24,6,2020,29,1,China,CN,CHN,1433783692,Asia,0.03173422,2.02262E-08,9,1,Social Distancing and Wearing Masks Enforced
+23/06/2020,23,6,2020,52,0,China,CN,CHN,1433783692,Asia,0.02999058,3.62677E-08,23,-1,Social Distancing and Wearing Masks Enforced
+22/06/2020,22,6,2020,19,0,China,CN,CHN,1433783692,Asia,0.02657305,1.32517E-08,-33,0,Social Distancing and Wearing Masks Enforced
+21/06/2020,21,6,2020,29,1,China,CN,CHN,1433783692,Asia,0.02559661,2.02262E-08,10,1,Social Distancing and Wearing Masks Enforced
+20/06/2020,20,6,2020,30,0,China,CN,CHN,1433783692,Asia,0.0242017,2.09237E-08,1,-1,Social Distancing and Wearing Masks Enforced
+19/06/2020,19,6,2020,36,0,China,CN,CHN,1433783692,Asia,0.02252781,2.51084E-08,6,0,Social Distancing and Wearing Masks Enforced
+18/06/2020,18,6,2020,36,0,China,CN,CHN,1433783692,Asia,0.02078417,2.51084E-08,0,0,Social Distancing and Wearing Masks Enforced
+17/06/2020,17,6,2020,44,0,China,CN,CHN,1433783692,Asia,0.01834307,3.0688E-08,8,0,Social Distancing and Wearing Masks Enforced
+16/06/2020,16,6,2020,43,0,China,CN,CHN,1433783692,Asia,0.015623,2.99906E-08,-1,0,Social Distancing and Wearing Masks Enforced
+15/06/2020,15,6,2020,47,0,China,CN,CHN,1433783692,Asia,0.01311216,3.27804E-08,4,0,Social Distancing and Wearing Masks Enforced
+14/06/2020,14,6,2020,60,0,China,CN,CHN,1433783692,Asia,0.01115928,4.18473E-08,13,0,Social Distancing and Wearing Masks Enforced
+13/06/2020,13,6,2020,12,0,China,CN,CHN,1433783692,Asia,0.00732328,8.36946E-09,-48,0,Social Distancing and Wearing Masks Enforced
+12/06/2020,12,6,2020,7,0,China,CN,CHN,1433783692,Asia,0.00767201,4.88219E-09,-5,0,Social Distancing and Wearing Masks Enforced
+11/06/2020,11,6,2020,11,0,China,CN,CHN,1433783692,Asia,0.00718379,7.67201E-09,4,0,Social Distancing and Wearing Masks Enforced
+10/06/2020,10,6,2020,4,0,China,CN,CHN,1433783692,Asia,0.00662583,2.78982E-09,-7,0,Social Distancing and Wearing Masks Enforced
+09/06/2020,9,6,2020,3,0,China,CN,CHN,1433783692,Asia,0.00641659,2.09237E-09,-1,0,Social Distancing and Wearing Masks Enforced
+08/06/2020,8,6,2020,5,0,China,CN,CHN,1433783692,Asia,0.00669557,3.48728E-09,2,0,Social Distancing and Wearing Masks Enforced
+07/06/2020,7,6,2020,9,0,China,CN,CHN,1433783692,Asia,0.00711404,6.2771E-09,4,0,Social Distancing and Wearing Masks Enforced
+06/06/2020,6,6,2020,6,0,China,CN,CHN,1433783692,Asia,0.00669557,4.18473E-09,-3,0,Social Distancing and Wearing Masks Enforced
+05/06/2020,5,6,2020,11,0,China,CN,CHN,1433783692,Asia,0.00641659,7.67201E-09,5,0,Social Distancing and Wearing Masks Enforced
+04/06/2020,4,6,2020,1,0,China,CN,CHN,1433783692,Asia,0.00648633,6.97455E-10,-10,0,Social Distancing and Wearing Masks Enforced
+03/06/2020,3,6,2020,5,0,China,CN,CHN,1433783692,Asia,0.00655608,3.48728E-09,4,0,Social Distancing and Wearing Masks Enforced
+02/06/2020,2,6,2020,7,0,China,CN,CHN,1433783692,Asia,0.00634684,4.88219E-09,2,0,Social Distancing and Wearing Masks Enforced
+01/06/2020,1,6,2020,19,0,China,CN,CHN,1433783692,Asia,0.00648633,1.32517E-08,12,0,Social Distancing and Wearing Masks Enforced
+31/05/2020,31,5,2020,5,0,China,CN,CHN,1433783692,Asia,0.00585862,3.48728E-09,-14,0,Social Distancing and Wearing Masks Enforced
+30/05/2020,30,5,2020,17,0,China,CN,CHN,1433783692,Asia,0.00592837,1.18567E-08,12,0,Social Distancing and Wearing Masks Enforced
+29/05/2020,29,5,2020,0,0,China,CN,CHN,1433783692,Asia,0.00537041,0,-17,0,Social Distancing and Wearing Masks Enforced
+28/05/2020,28,5,2020,3,0,China,CN,CHN,1433783692,Asia,0.00571913,2.09237E-09,3,0,Social Distancing and Wearing Masks Enforced
+27/05/2020,27,5,2020,1,0,China,CN,CHN,1433783692,Asia,0.00592837,6.97455E-10,-2,0,Social Distancing and Wearing Masks Enforced
+26/05/2020,26,5,2020,7,0,China,CN,CHN,1433783692,Asia,0.00634684,4.88219E-09,6,0,Social Distancing and Wearing Masks Enforced
+25/05/2020,25,5,2020,11,0,China,CN,CHN,1433783692,Asia,0.00592837,7.67201E-09,4,0,Social Distancing and Wearing Masks Enforced
+24/05/2020,24,5,2020,3,0,China,CN,CHN,1433783692,Asia,0.00648633,2.09237E-09,-8,0,Social Distancing and Wearing Masks Enforced
+23/05/2020,23,5,2020,2,0,China,CN,CHN,1433783692,Asia,0.00732328,1.39491E-09,-1,0,Social Distancing and Wearing Masks Enforced
+22/05/2020,22,5,2020,12,0,China,CN,CHN,1433783692,Asia,0.00718379,8.36946E-09,10,0,Social Distancing and Wearing Masks Enforced
+21/05/2020,21,5,2020,2,0,China,CN,CHN,1433783692,Asia,0.00676532,1.39491E-09,-10,0,Social Distancing and Wearing Masks Enforced
+20/05/2020,20,5,2020,2,0,China,CN,CHN,1433783692,Asia,0.00676532,1.39491E-09,0,0,Social Distancing and Wearing Masks Enforced
+19/05/2020,19,5,2020,9,0,China,CN,CHN,1433783692,Asia,0.00676532,6.2771E-09,7,0,Social Distancing and Wearing Masks Enforced
+18/05/2020,18,5,2020,10,0,China,CN,CHN,1433783692,Asia,0.0062771,6.97455E-09,1,0,Social Distancing and Wearing Masks Enforced
+17/05/2020,17,5,2020,6,1,China,CN,CHN,1433783692,Asia,0.00578888,4.18473E-09,-4,1,Social Distancing and Wearing Masks Enforced
+16/05/2020,16,5,2020,9,0,China,CN,CHN,1433783692,Asia,0.0055099,6.2771E-09,3,-1,Social Distancing and Wearing Masks Enforced
+15/05/2020,15,5,2020,5,0,China,CN,CHN,1433783692,Asia,0.00509142,3.48728E-09,-4,0,Social Distancing and Wearing Masks Enforced
+14/05/2020,14,5,2020,6,0,China,CN,CHN,1433783692,Asia,0.00557964,4.18473E-09,1,0,Social Distancing and Wearing Masks Enforced
+13/05/2020,13,5,2020,7,0,China,CN,CHN,1433783692,Asia,0.00544015,4.88219E-09,1,0,Social Distancing and Wearing Masks Enforced
+12/05/2020,12,5,2020,1,0,China,CN,CHN,1433783692,Asia,0.00509142,6.97455E-10,-6,0,Social Distancing and Wearing Masks Enforced
+11/05/2020,11,5,2020,19,0,China,CN,CHN,1433783692,Asia,0.00683506,1.32517E-08,18,0,Social Distancing and Wearing Masks Enforced
+10/05/2020,10,5,2020,15,0,China,CN,CHN,1433783692,Asia,0.00571913,1.04618E-08,-4,0,Social Distancing and Wearing Masks Enforced
+09/05/2020,9,5,2020,0,0,China,CN,CHN,1433783692,Asia,0.00537041,0,-15,0,Social Distancing and Wearing Masks Enforced
+08/05/2020,8,5,2020,6,0,China,CN,CHN,1433783692,Asia,0.00641659,4.18473E-09,6,0,Social Distancing and Wearing Masks Enforced
+07/05/2020,7,5,2020,2,0,China,CN,CHN,1433783692,Asia,0.00655608,1.39491E-09,-4,0,Social Distancing and Wearing Masks Enforced
+06/05/2020,6,5,2020,2,0,China,CN,CHN,1433783692,Asia,0.00725353,1.39491E-09,0,0,Social Distancing and Wearing Masks Enforced
+05/05/2020,5,5,2020,2,0,China,CN,CHN,1433783692,Asia,0.00816023,1.39491E-09,0,0,Social Distancing and Wearing Masks Enforced
+04/05/2020,4,5,2020,3,0,China,CN,CHN,1433783692,Asia,0.01025259,2.09237E-09,1,0,Social Distancing and Wearing Masks Enforced
+03/05/2020,3,5,2020,2,0,China,CN,CHN,1433783692,Asia,0.01101979,1.39491E-09,-1,0,Social Distancing and Wearing Masks Enforced
+02/05/2020,2,5,2020,3,0,China,CN,CHN,1433783692,Asia,0.01213572,2.09237E-09,1,0,Social Distancing and Wearing Masks Enforced
+01/05/2020,1,5,2020,12,0,China,CN,CHN,1433783692,Asia,0.0140886,8.36946E-09,9,0,Social Distancing and Wearing Masks Enforced
+30/04/2020,30,4,2020,4,0,China,CN,CHN,1433783692,Asia,0.03780208,2.78982E-09,-8,0,Social Distancing and Wearing Masks Enforced
+29/04/2020,29,4,2020,2,0,China,CN,CHN,1433783692,Asia,0.04101037,1.39491E-09,-2,0,Social Distancing and Wearing Masks Enforced
+28/04/2020,28,4,2020,26,0,China,CN,CHN,1433783692,Asia,0.04428841,1.81338E-08,24,0,Social Distancing and Wearing Masks Enforced
+27/04/2020,27,4,2020,3,1,China,CN,CHN,1433783692,Asia,0.04903111,2.09237E-09,-23,1,Social Distancing and Wearing Masks Enforced
+26/04/2020,26,4,2020,10,0,China,CN,CHN,1433783692,Asia,0.05663337,6.97455E-09,7,-1,Social Distancing and Wearing Masks Enforced
+25/04/2020,25,4,2020,15,0,China,CN,CHN,1433783692,Asia,0.06242225,1.04618E-08,5,0,Social Distancing and Wearing Masks Enforced
+24/04/2020,24,4,2020,8,0,China,CN,CHN,1433783692,Asia,0.06688596,5.57964E-09,-7,0,Social Distancing and Wearing Masks Enforced
+23/04/2020,23,4,2020,12,0,China,CN,CHN,1433783692,Asia,0.070164,8.36946E-09,4,0,Social Distancing and Wearing Masks Enforced
+22/04/2020,22,4,2020,15,0,China,CN,CHN,1433783692,Asia,0.07532517,1.04618E-08,3,0,Social Distancing and Wearing Masks Enforced
+21/04/2020,21,4,2020,32,0,China,CN,CHN,1433783692,Asia,0.0802771,2.23186E-08,17,0,Social Distancing and Wearing Masks Enforced
+20/04/2020,20,4,2020,14,0,China,CN,CHN,1433783692,Asia,0.08195099,9.76437E-09,-18,0,Social Distancing and Wearing Masks Enforced
+19/04/2020,19,4,2020,18,0,China,CN,CHN,1433783692,Asia,0.08564751,1.25542E-08,4,0,Social Distancing and Wearing Masks Enforced
+18/04/2020,18,4,2020,31,0,China,CN,CHN,1433783692,Asia,0.08773987,2.16211E-08,13,0,Social Distancing and Wearing Masks Enforced
+17/04/2020,17,4,2020,352,1290,China,CN,CHN,1433783692,Asia,0.08990199,2.45504E-07,321,1290,Social Distancing and Wearing Masks Enforced
+16/04/2020,16,4,2020,50,0,China,CN,CHN,1433783692,Asia,0.07023375,3.48728E-08,-302,-1290,Social Distancing and Wearing Masks Enforced
+15/04/2020,15,4,2020,49,1,China,CN,CHN,1433783692,Asia,0.07372102,3.41753E-08,-1,1,Social Distancing and Wearing Masks Enforced
+14/04/2020,14,4,2020,94,0,China,CN,CHN,1433783692,Asia,0.07406975,6.55608E-08,45,-1,Social Distancing and Wearing Masks Enforced
+13/04/2020,13,4,2020,112,2,China,CN,CHN,1433783692,Asia,0.07337229,7.8115E-08,18,2,Social Distancing and Wearing Masks Enforced
+12/04/2020,12,4,2020,93,0,China,CN,CHN,1433783692,Asia,0.07239586,6.48633E-08,-19,-2,Social Distancing and Wearing Masks Enforced
+11/04/2020,11,4,2020,79,3,China,CN,CHN,1433783692,Asia,0.07379077,5.5099E-08,-14,3,Social Distancing and Wearing Masks Enforced
+10/04/2020,10,4,2020,55,1,China,CN,CHN,1433783692,Asia,0.07658059,3.836E-08,-24,-2,Social Distancing and Wearing Masks Enforced
+09/04/2020,9,4,2020,86,2,China,CN,CHN,1433783692,Asia,0.07930066,5.99812E-08,31,1,Social Distancing and Wearing Masks Enforced
+08/04/2020,8,4,2020,86,2,China,CN,CHN,1433783692,Asia,0.08041659,5.99812E-08,0,0,Lockdown
+07/04/2020,7,4,2020,56,0,China,CN,CHN,1433783692,Asia,0.07985863,3.90575E-08,-30,-2,Lockdown
+06/04/2020,6,4,2020,67,2,China,CN,CHN,1433783692,Asia,0.08076532,4.67295E-08,11,2,Lockdown
+05/04/2020,5,4,2020,48,3,China,CN,CHN,1433783692,Asia,0.08571725,3.34779E-08,-19,1,Lockdown
+04/04/2020,4,4,2020,62,4,China,CN,CHN,1433783692,Asia,0.08690293,4.32422E-08,14,1,Lockdown
+03/04/2020,3,4,2020,70,10,China,CN,CHN,1433783692,Asia,0.08620547,4.88219E-08,8,6,Lockdown
+02/04/2020,2,4,2020,100,6,China,CN,CHN,1433783692,Asia,0.08822809,6.97455E-08,30,-4,Lockdown
+01/04/2020,1,4,2020,54,1,China,CN,CHN,1433783692,Asia,0.08432234,3.76626E-08,-46,-5,Lockdown
+31/03/2020,31,3,2020,84,3,China,CN,CHN,1433783692,Asia,0.08216023,5.85862E-08,30,2,Lockdown
+30/03/2020,30,3,2020,98,2,China,CN,CHN,1433783692,Asia,0.07930066,6.83506E-08,14,-1,Lockdown
+29/03/2020,29,3,2020,113,5,China,CN,CHN,1433783692,Asia,0.07420924,7.88124E-08,15,3,Lockdown
+28/03/2020,28,3,2020,119,3,China,CN,CHN,1433783692,Asia,0.0678624,8.29972E-08,6,-2,Lockdown
+27/03/2020,27,3,2020,94,5,China,CN,CHN,1433783692,Asia,0.06088785,6.55608E-08,-25,2,Lockdown
+26/03/2020,26,3,2020,102,6,China,CN,CHN,1433783692,Asia,0.05586617,7.11404E-08,8,1,Lockdown
+25/03/2020,25,3,2020,78,4,China,CN,CHN,1433783692,Asia,0.05042602,5.44015E-08,-24,-2,Lockdown
+24/03/2020,24,3,2020,69,7,China,CN,CHN,1433783692,Asia,0.04700849,4.81244E-08,-9,3,Lockdown
+23/03/2020,23,3,2020,138,9,China,CN,CHN,1433783692,Asia,0.04359095,9.62488E-08,69,2,Lockdown
+22/03/2020,22,3,2020,65,6,China,CN,CHN,1433783692,Asia,0.03710462,4.53346E-08,-73,-3,Lockdown
+21/03/2020,21,3,2020,52,6,China,CN,CHN,1433783692,Asia,0.03577946,3.62677E-08,-13,0,Lockdown
+20/03/2020,20,3,2020,99,4,China,CN,CHN,1433783692,Asia,0.03919699,6.90481E-08,47,-2,Lockdown
+19/03/2020,19,3,2020,44,8,China,CN,CHN,1433783692,Asia,0.04414892,3.0688E-08,-55,4,Lockdown
+18/03/2020,18,3,2020,23,16,China,CN,CHN,1433783692,Asia,0.04924034,1.60415E-08,-21,8,Lockdown
+17/03/2020,17,3,2020,43,9,China,CN,CHN,1433783692,Asia,0.05593591,2.99906E-08,20,-7,Lockdown
+16/03/2020,16,3,2020,25,13,China,CN,CHN,1433783692,Asia,0.06179454,1.74364E-08,-18,4,Lockdown
+15/03/2020,15,3,2020,22,9,China,CN,CHN,1433783692,Asia,0.07434873,1.5344E-08,-3,-4,Lockdown
+14/03/2020,14,3,2020,19,15,China,CN,CHN,1433783692,Asia,0.11284826,1.32517E-08,-3,6,Lockdown
+13/03/2020,13,3,2020,22,7,China,CN,CHN,1433783692,Asia,0.14137418,1.5344E-08,3,-8,Lockdown
+12/03/2020,12,3,2020,24,11,China,CN,CHN,1433783692,Asia,0.16278606,1.67389E-08,2,4,Lockdown
+11/03/2020,11,3,2020,29,22,China,CN,CHN,1433783692,Asia,0.19173046,2.02262E-08,5,11,Lockdown
+10/03/2020,10,3,2020,20,17,China,CN,CHN,1433783692,Asia,0.2183035,1.39491E-08,-9,-5,Lockdown
+09/03/2020,9,3,2020,45,23,China,CN,CHN,1433783692,Asia,0.25282754,3.13855E-08,25,6,Lockdown
+08/03/2020,8,3,2020,46,27,China,CN,CHN,1433783692,Asia,0.26489351,3.20829E-08,1,4,Lockdown
+07/03/2020,7,3,2020,101,28,China,CN,CHN,1433783692,Asia,0.30681058,7.0443E-08,55,1,Lockdown
+06/03/2020,6,3,2020,170,30,China,CN,CHN,1433783692,Asia,0.35737608,1.18567E-07,69,2,Lockdown
+05/03/2020,5,3,2020,117,31,China,CN,CHN,1433783692,Asia,0.40766261,8.16023E-08,-53,1,Lockdown
+04/03/2020,4,3,2020,119,37,China,CN,CHN,1433783692,Asia,0.42698212,8.29972E-08,2,6,Lockdown
+03/03/2020,3,3,2020,127,32,China,CN,CHN,1433783692,Asia,0.54073708,8.85768E-08,8,-5,Lockdown
+02/03/2020,2,3,2020,205,42,China,CN,CHN,1433783692,Asia,0.66369844,1.42978E-07,78,10,Lockdown
+01/03/2020,1,3,2020,574,35,China,CN,CHN,1433783692,Asia,0.79251843,4.00339E-07,369,-7,Lockdown
+29/02/2020,29,2,2020,428,47,China,CN,CHN,1433783692,Asia,0.89246377,2.98511E-07,-146,12,Lockdown
+28/02/2020,28,2,2020,329,44,China,CN,CHN,1433783692,Asia,1.03962683,2.29463E-07,-99,-3,Lockdown
+27/02/2020,27,2,2020,439,29,China,CN,CHN,1433783692,Asia,1.30654297,3.06183E-07,110,-15,Lockdown
+26/02/2020,26,2,2020,410,52,China,CN,CHN,1433783692,Asia,2.33194171,2.85957E-07,-29,23,Lockdown
+25/02/2020,25,2,2020,515,70,China,CN,CHN,1433783692,Asia,2.44478998,3.59189E-07,105,18,Lockdown
+24/02/2020,24,2,2020,218,150,China,CN,CHN,1433783692,Asia,2.58253739,1.52045E-07,-297,80,Lockdown
+23/02/2020,23,2,2020,647,98,China,CN,CHN,1433783692,Asia,2.77475607,4.51254E-07,429,-52,Lockdown
+22/02/2020,22,2,2020,826,109,China,CN,CHN,1433783692,Asia,2.9114573,5.76098E-07,179,11,Lockdown
+21/02/2020,21,2,2020,891,118,China,CN,CHN,1433783692,Asia,3.09223771,6.21433E-07,65,9,Lockdown
+20/02/2020,20,2,2020,394,112,China,CN,CHN,1433783692,Asia,3.25049031,2.74797E-07,-497,-6,Lockdown
+19/02/2020,19,2,2020,1750,139,China,CN,CHN,1433783692,Asia,3.48295216,1.22055E-06,1356,27,Lockdown
+18/02/2020,18,2,2020,1890,98,China,CN,CHN,1433783692,Asia,3.63095216,1.31819E-06,140,-41,Lockdown
+17/02/2020,17,2,2020,2052,105,China,CN,CHN,1433783692,Asia,3.72489939,1.43118E-06,162,7,Lockdown
+16/02/2020,16,2,2020,2007,142,China,CN,CHN,1433783692,Asia,3.77790599,1.39979E-06,-45,37,Lockdown
+15/02/2020,15,2,2020,2538,143,China,CN,CHN,1433783692,Asia,3.81856763,1.77014E-06,531,1,Lockdown
+14/02/2020,14,2,2020,4156,13,China,CN,CHN,1433783692,Asia,3.78767036,2.89862E-06,1618,-130,Lockdown
+13/02/2020,13,2,2020,15141,254,China,CN,CHN,1433783692,Asia,3.6359041,1.05602E-05,10985,241,Lockdown
+12/02/2020,12,2,2020,2028,97,China,CN,CHN,1433783692,Asia,2.70124428,1.41444E-06,-13113,-157,Lockdown
+11/02/2020,11,2,2020,2490,108,China,CN,CHN,1433783692,Asia,2.6620473,1.73666E-06,462,11,Lockdown
+10/02/2020,10,2,2020,2974,97,China,CN,CHN,1433783692,Asia,2.61064484,2.07423E-06,484,-11,Lockdown
+09/02/2020,9,2,2020,2607,89,China,CN,CHN,1433783692,Asia,2.45811137,1.81827E-06,-367,-8,Lockdown
+08/02/2020,8,2,2020,3418,86,China,CN,CHN,1433783692,Asia,2.32266556,2.3839E-06,811,-3,Lockdown
+07/02/2020,7,2,2020,3160,73,China,CN,CHN,1433783692,Asia,2.11503312,2.20396E-06,-258,-13,Lockdown
+06/02/2020,6,2,2020,3727,72,China,CN,CHN,1433783692,Asia,1.91270135,2.59942E-06,567,-1,Lockdown
+05/02/2020,5,2,2020,3872,66,China,CN,CHN,1433783692,Asia,1.65952508,2.70055E-06,145,-6,Lockdown
+04/02/2020,4,2,2020,3237,65,China,CN,CHN,1433783692,Asia,1.39923477,2.25766E-06,-635,-1,Lockdown
+03/02/2020,3,2,2020,2812,57,China,CN,CHN,1433783692,Asia,1.18400008,1.96124E-06,-425,-8,Lockdown
+02/02/2020,2,2,2020,2590,45,China,CN,CHN,1433783692,Asia,0.98920082,1.80641E-06,-222,-12,Lockdown
+01/02/2020,1,2,2020,2095,46,China,CN,CHN,1433783692,Asia,0.81804529,1.46117E-06,-495,1,Lockdown
+31/01/2020,31,1,2020,1980,43,China,CN,CHN,1433783692,Asia,0.67311409,1.38096E-06,-115,-3,Lockdown
+30/01/2020,30,1,2020,1740,38,China,CN,CHN,1433783692,Asia,0.53529692,1.21357E-06,-240,-5,Lockdown
+29/01/2020,29,1,2020,1466,26,China,CN,CHN,1433783692,Asia,0.41393971,1.02247E-06,-274,-12,Lockdown
+28/01/2020,28,1,2020,1753,25,China,CN,CHN,1433783692,Asia,0.31169276,1.22264E-06,287,-1,Lockdown
+27/01/2020,27,1,2020,787,25,China,CN,CHN,1433783692,Asia,0.18942885,5.48897E-07,-966,0,Lockdown
+26/01/2020,26,1,2020,665,15,China,CN,CHN,1433783692,Asia,0.13453912,4.63808E-07,-122,-10,Lockdown
+25/01/2020,25,1,2020,441,15,China,CN,CHN,1433783692,Asia,0.08815835,3.07578E-07,-224,0,Lockdown
+24/01/2020,24,1,2020,259,9,China,CN,CHN,1433783692,Asia,0.05740057,1.80641E-07,-182,-6,Lockdown
+23/01/2020,23,1,2020,97,0,China,CN,CHN,1433783692,Asia,0.03933648,6.76532E-08,-162,-9,Lockdown
+22/01/2020,22,1,2020,140,11,China,CN,CHN,1433783692,Asia,0.03257116,9.76437E-08,43,11,Lockdown
+21/01/2020,21,1,2020,151,3,China,CN,CHN,1433783692,Asia,0.02280679,1.05316E-07,11,-8,Lockdown
+20/01/2020,20,1,2020,19,0,China,CN,CHN,1433783692,Asia,0.01227521,1.32517E-08,-132,-3,Lockdown
+19/01/2020,19,1,2020,136,1,China,CN,CHN,1433783692,Asia,0.01095005,9.48539E-08,117,1,Lockdown
+18/01/2020,18,1,2020,17,0,China,CN,CHN,1433783692,Asia,0.00251084,1.18567E-08,-119,-1,Lockdown
+17/01/2020,17,1,2020,4,0,China,CN,CHN,1433783692,Asia,0.00132517,2.78982E-09,-13,0,Lockdown
+16/01/2020,16,1,2020,0,0,China,CN,CHN,1433783692,Asia,0.00223186,0,-4,0,Lockdown
+15/01/2020,15,1,2020,0,1,China,CN,CHN,1433783692,Asia,0.00223186,0,0,1,Lockdown
+14/01/2020,14,1,2020,0,0,China,CN,CHN,1433783692,Asia,0.00223186,0,0,-1,Lockdown
+13/01/2020,13,1,2020,0,0,China,CN,CHN,1433783692,Asia,0.00411499,0,0,0,Lockdown
+12/01/2020,12,1,2020,0,0,China,CN,CHN,1433783692,Asia,,0,0,0,Lockdown
+11/01/2020,11,1,2020,0,1,China,CN,CHN,1433783692,Asia,,0,0,1,Lockdown
+10/01/2020,10,1,2020,0,0,China,CN,CHN,1433783692,Asia,,0,0,-1,Lockdown
+09/01/2020,9,1,2020,0,0,China,CN,CHN,1433783692,Asia,,0,0,0,Lockdown
+08/01/2020,8,1,2020,0,0,China,CN,CHN,1433783692,Asia,,0,0,0,Lockdown
+07/01/2020,7,1,2020,0,0,China,CN,CHN,1433783692,Asia,,0,0,0,Lockdown
+06/01/2020,6,1,2020,0,0,China,CN,CHN,1433783692,Asia,,0,0,0,Lockdown
+05/01/2020,5,1,2020,15,0,China,CN,CHN,1433783692,Asia,,1.04618E-08,15,0,Lockdown
+04/01/2020,4,1,2020,0,0,China,CN,CHN,1433783692,Asia,,0,-15,0,Lockdown
+03/01/2020,3,1,2020,17,0,China,CN,CHN,1433783692,Asia,,1.18567E-08,17,0,Lockdown
+02/01/2020,2,1,2020,0,0,China,CN,CHN,1433783692,Asia,,0,-17,0,Lockdown
+01/01/2020,1,1,2020,0,0,China,CN,CHN,1433783692,Asia,,0,0,0,Lockdown
+31/12/2019,31,12,2019,27,0,China,CN,CHN,1433783692,Asia,,1.88313E-08,27,0,Lockdown

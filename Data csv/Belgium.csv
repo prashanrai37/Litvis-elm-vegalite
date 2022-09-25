@@ -1,0 +1,346 @@
+dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterritoryCode,popData2019,continentExp,Cumulative_number_for_14_days_of_COVID-19_cases_per_100000,As of Population,Change in Case Number,Change in Death Number,Measures
+09/12/2020,9,12,2020,3,10,Belgium,BE,BEL,11455519,Europe,251.6079804,2.61883E-07,#VALUE!,#VALUE!,Social Distancing and Wearing Masks Enforced
+08/12/2020,8,12,2020,1530,73,Belgium,BE,BEL,11455519,Europe,272.7593573,0.00013356,1527,63,Social Distancing and Wearing Masks Enforced
+07/12/2020,7,12,2020,577,77,Belgium,BE,BEL,11455519,Europe,272.8641103,5.03687E-05,-953,4,Social Distancing and Wearing Masks Enforced
+06/12/2020,6,12,2020,1084,81,Belgium,BE,BEL,11455519,Europe,274.4266759,9.46269E-05,507,4,Social Distancing and Wearing Masks Enforced
+05/12/2020,5,12,2020,2516,100,Belgium,BE,BEL,11455519,Europe,279.3587964,0.000219632,1432,19,Social Distancing and Wearing Masks Enforced
+04/12/2020,4,12,2020,2353,92,Belgium,BE,BEL,11455519,Europe,285.172588,0.000205403,-163,-8,Social Distancing and Wearing Masks Enforced
+03/12/2020,3,12,2020,2602,117,Belgium,BE,BEL,11455519,Europe,294.7574876,0.000227139,249,25,Social Distancing and Wearing Masks Enforced
+02/12/2020,2,12,2020,2672,108,Belgium,BE,BEL,11455519,Europe,313.5781103,0.00023325,70,-9,Social Distancing and Wearing Masks Enforced
+01/12/2020,1,12,2020,3291,98,Belgium,BE,BEL,11455519,Europe,335.6635348,0.000287285,619,-10,Social Distancing and Wearing Masks Enforced
+30/11/2020,30,11,2020,560,118,Belgium,BE,BEL,11455519,Europe,340.0020549,4.88847E-05,-2731,20,Social Distancing and Wearing Masks Enforced
+29/11/2020,29,11,2020,1004,114,Belgium,BE,BEL,11455519,Europe,351.9351677,8.76433E-05,444,-4,Social Distancing and Wearing Masks Enforced
+28/11/2020,28,11,2020,2696,124,Belgium,BE,BEL,11455519,Europe,378.2369005,0.000235345,1692,10,Social Distancing and Wearing Masks Enforced
+27/11/2020,27,11,2020,2404,118,Belgium,BE,BEL,11455519,Europe,413.8354622,0.000209855,-292,-6,Social Distancing and Wearing Masks Enforced
+26/11/2020,26,11,2020,2670,137,Belgium,BE,BEL,11455519,Europe,408.0216706,0.000233075,266,19,Social Distancing and Wearing Masks Enforced
+25/11/2020,25,11,2020,2864,119,Belgium,BE,BEL,11455519,Europe,450.2458597,0.00025001,194,-18,Social Distancing and Wearing Masks Enforced
+24/11/2020,24,11,2020,3953,139,Belgium,BE,BEL,11455519,Europe,491.1257185,0.000345074,1089,20,Social Distancing and Wearing Masks Enforced
+23/11/2020,23,11,2020,589,135,Belgium,BE,BEL,11455519,Europe,498.6242876,5.14163E-05,-3364,-4,Social Distancing and Wearing Masks Enforced
+22/11/2020,22,11,2020,1263,137,Belgium,BE,BEL,11455519,Europe,514.1888377,0.000110253,674,2,Social Distancing and Wearing Masks Enforced
+21/11/2020,21,11,2020,3081,165,Belgium,BE,BEL,11455519,Europe,545.3266674,0.000268953,1818,28,Social Distancing and Wearing Masks Enforced
+20/11/2020,20,11,2020,3019,172,Belgium,BE,BEL,11455519,Europe,585.8311614,0.000263541,-62,7,Social Distancing and Wearing Masks Enforced
+19/11/2020,19,11,2020,3700,158,Belgium,BE,BEL,11455519,Europe,634.1048363,0.000322988,681,-14,Social Distancing and Wearing Masks Enforced
+18/11/2020,18,11,2020,4828,153,Belgium,BE,BEL,11455519,Europe,697.6026141,0.000421456,1128,-5,Social Distancing and Wearing Masks Enforced
+17/11/2020,17,11,2020,5821,195,Belgium,BE,BEL,11455519,Europe,767.7609369,0.000508139,993,42,Social Distancing and Wearing Masks Enforced
+16/11/2020,16,11,2020,1057,192,Belgium,BE,BEL,11455519,Europe,781.8065685,9.22699E-05,-4764,-3,Social Distancing and Wearing Masks Enforced
+15/11/2020,15,11,2020,2371,175,Belgium,BE,BEL,11455519,Europe,816.1742825,0.000206974,1314,-17,Social Distancing and Wearing Masks Enforced
+14/11/2020,14,11,2020,5709,183,Belgium,BE,BEL,11455519,Europe,900.7797901,0.000498362,3338,8,Social Distancing and Wearing Masks Enforced
+13/11/2020,13,11,2020,6482,173,Belgium,BE,BEL,11455519,Europe,975.9226099,0.000565841,773,-10,Social Distancing and Wearing Masks Enforced
+12/11/2020,12,11,2020,2004,196,Belgium,BE,BEL,11455519,Europe,1115.540902,0.000174938,-4478,23,Social Distancing and Wearing Masks Enforced
+11/11/2020,11,11,2020,7701,217,Belgium,BE,BEL,11455519,Europe,1242.196011,0.000672252,5697,21,Social Distancing and Wearing Masks Enforced
+10/11/2020,10,11,2020,8636,194,Belgium,BE,BEL,11455519,Europe,1340.24482,0.000753872,935,-23,Social Distancing and Wearing Masks Enforced
+09/11/2020,9,11,2020,1448,210,Belgium,BE,BEL,11455519,Europe,1370.33512,0.000126402,-7188,16,Social Distancing and Wearing Masks Enforced
+08/11/2020,8,11,2020,3046,208,Belgium,BE,BEL,11455519,Europe,1444.631186,0.000265898,1598,-2,Social Distancing and Wearing Masks Enforced
+07/11/2020,7,11,2020,6648,214,Belgium,BE,BEL,11455519,Europe,1551.374495,0.000580332,3602,6,Social Distancing and Wearing Masks Enforced
+06/11/2020,6,11,2020,7659,206,Belgium,BE,BEL,11455519,Europe,1638.913086,0.000668586,1011,-8,Social Distancing and Wearing Masks Enforced
+05/11/2020,5,11,2020,9230,198,Belgium,BE,BEL,11455519,Europe,1710.974422,0.000805725,1571,-8,Social Distancing and Wearing Masks Enforced
+04/11/2020,4,11,2020,12102,173,Belgium,BE,BEL,11455519,Europe,1773.503235,0.001056434,2872,-25,Social Distancing and Wearing Masks Enforced
+03/11/2020,3,11,2020,13858,208,Belgium,BE,BEL,11455519,Europe,1788.360702,0.001209723,1756,35,Social Distancing and Wearing Masks Enforced
+02/11/2020,2,11,2020,2666,164,Belgium,BE,BEL,11455519,Europe,1802.528545,0.000232726,-11192,-44,Social Distancing and Wearing Masks Enforced
+01/11/2020,1,11,2020,6308,177,Belgium,BE,BEL,11455519,Europe,1817.255072,0.000550652,3642,13,Social Distancing and Wearing Masks Enforced
+31/10/2020,31,10,2020,15401,185,Belgium,BE,BEL,11455519,Europe,1800.459674,0.001344417,9093,8,Social Distancing and Wearing Masks Enforced
+30/10/2020,30,10,2020,15090,139,Belgium,BE,BEL,11455519,Europe,1771.897022,0.001317269,-311,-46,Social Distancing and Wearing Masks Enforced
+29/10/2020,29,10,2020,17998,142,Belgium,BE,BEL,11455519,Europe,1722.095699,0.00157112,2908,3,Social Distancing and Wearing Masks Enforced
+28/10/2020,28,10,2020,22210,132,Belgium,BE,BEL,11455519,Europe,1638.005227,0.001938803,4212,-10,Social Distancing and Wearing Masks Enforced
+27/10/2020,27,10,2020,19868,121,Belgium,BE,BEL,11455519,Europe,1549.550047,0.001734361,-2342,-11,Social Distancing and Wearing Masks Enforced
+26/10/2020,26,10,2020,4895,94,Belgium,BE,BEL,11455519,Europe,1527.79634,0.000427305,-14973,-27,Social Distancing and Wearing Masks Enforced
+25/10/2020,25,10,2020,11557,93,Belgium,BE,BEL,11455519,Europe,1464.534256,0.001008859,6662,-1,Social Distancing and Wearing Masks Enforced
+24/10/2020,24,10,2020,18876,94,Belgium,BE,BEL,11455519,Europe,1367.751212,0.001647765,7319,1,Social Distancing and Wearing Masks Enforced
+23/10/2020,23,10,2020,17687,55,Belgium,BE,BEL,11455519,Europe,1270.863415,0.001543972,-1189,-39,Social Distancing and Wearing Masks Enforced
+22/10/2020,22,10,2020,17485,62,Belgium,BE,BEL,11455519,Europe,1177.615785,0.001526339,-202,7,Social Distancing and Wearing Masks Enforced
+21/10/2020,21,10,2020,19265,52,Belgium,BE,BEL,11455519,Europe,1059.087764,0.001681722,1780,-10,Social Distancing and Wearing Masks Enforced
+20/10/2020,20,10,2020,15560,52,Belgium,BE,BEL,11455519,Europe,969.0787471,0.001358297,-3705,0,Social Distancing and Wearing Masks Enforced
+19/10/2020,19,10,2020,4289,31,Belgium,BE,BEL,11455519,Europe,940.6732248,0.000374405,-11271,-21,Social Distancing and Wearing Masks Enforced
+18/10/2020,18,10,2020,7995,23,Belgium,BE,BEL,11455519,Europe,885.8001109,0.000697917,3706,-8,Social Distancing and Wearing Masks Enforced
+17/10/2020,17,10,2020,13477,36,Belgium,BE,BEL,11455519,Europe,800.6359206,0.001176464,5482,13,Social Distancing and Wearing Masks Enforced
+16/10/2020,16,10,2020,11818,35,Belgium,BE,BEL,11455519,Europe,727.2389841,0.001031642,-1659,-1,Social Distancing and Wearing Masks Enforced
+15/10/2020,15,10,2020,12293,41,Belgium,BE,BEL,11455519,Europe,648.2377621,0.001073107,475,6,Social Distancing and Wearing Masks Enforced
+14/10/2020,14,10,2020,12577,34,Belgium,BE,BEL,11455519,Europe,564.4964667,0.001097899,284,-7,Social Distancing and Wearing Masks Enforced
+13/10/2020,13,10,2020,9735,36,Belgium,BE,BEL,11455519,Europe,503.8008317,0.000849809,-2842,2,Social Distancing and Wearing Masks Enforced
+12/10/2020,12,10,2020,2403,26,Belgium,BE,BEL,11455519,Europe,487.5379282,0.000209768,-7332,-10,Social Distancing and Wearing Masks Enforced
+11/10/2020,11,10,2020,4310,22,Belgium,BE,BEL,11455519,Europe,458.1547113,0.000376238,1907,-4,Social Distancing and Wearing Masks Enforced
+10/10/2020,10,10,2020,7789,19,Belgium,BE,BEL,11455519,Europe,404.3291273,0.000679934,3479,-3,Social Distancing and Wearing Masks Enforced
+09/10/2020,9,10,2020,6588,20,Belgium,BE,BEL,11455519,Europe,362.497762,0.000575094,-1201,1,Social Distancing and Wearing Masks Enforced
+08/10/2020,8,10,2020,6803,20,Belgium,BE,BEL,11455519,Europe,321.4171265,0.000593862,215,0,Social Distancing and Wearing Masks Enforced
+07/10/2020,7,10,2020,5687,18,Belgium,BE,BEL,11455519,Europe,289.8777436,0.000496442,-1116,-2,Social Distancing and Wearing Masks Enforced
+06/10/2020,6,10,2020,5249,14,Belgium,BE,BEL,11455519,Europe,263.2966695,0.000458207,-438,-4,Social Distancing and Wearing Masks Enforced
+05/10/2020,5,10,2020,1035,14,Belgium,BE,BEL,11455519,Europe,258.2859843,9.03495E-05,-4214,0,Social Distancing and Wearing Masks Enforced
+04/10/2020,4,10,2020,1709,15,Belgium,BE,BEL,11455519,Europe,251.1715096,0.000149186,674,1,Social Distancing and Wearing Masks Enforced
+03/10/2020,3,10,2020,3721,11,Belgium,BE,BEL,11455519,Europe,233.607923,0.000324822,2012,-4,Social Distancing and Wearing Masks Enforced
+02/10/2020,2,10,2020,3410,15,Belgium,BE,BEL,11455519,Europe,219.1345499,0.000297673,-311,4,Social Distancing and Wearing Masks Enforced
+01/10/2020,1,10,2020,3243,6,Belgium,BE,BEL,11455519,Europe,207.7775787,0.000283095,-167,-9,Social Distancing and Wearing Masks Enforced
+30/09/2020,30,9,2020,2984,10,Belgium,BE,BEL,11455519,Europe,195.9404895,0.000260486,-259,4,Social Distancing and Wearing Masks Enforced
+29/09/2020,29,9,2020,2782,13,Belgium,BE,BEL,11455519,Europe,186.7309548,0.000242852,-202,3,Social Distancing and Wearing Masks Enforced
+28/09/2020,28,9,2020,540,12,Belgium,BE,BEL,11455519,Europe,184.6446241,4.71389E-05,-2242,-1,Social Distancing and Wearing Masks Enforced
+27/09/2020,27,9,2020,944,6,Belgium,BE,BEL,11455519,Europe,181.7901048,8.24057E-05,404,-6,Social Distancing and Wearing Masks Enforced
+26/09/2020,26,9,2020,1623,5,Belgium,BE,BEL,11455519,Europe,178.8308325,0.000141678,679,-1,Social Distancing and Wearing Masks Enforced
+25/09/2020,25,9,2020,1796,4,Belgium,BE,BEL,11455519,Europe,173.1305234,0.00015678,173,-1,Social Distancing and Wearing Masks Enforced
+24/09/2020,24,9,2020,2097,8,Belgium,BE,BEL,11455519,Europe,163.7638592,0.000183056,301,4,Social Distancing and Wearing Masks Enforced
+23/09/2020,23,9,2020,2074,1,Belgium,BE,BEL,11455519,Europe,153.2623707,0.000181048,-23,-7,Social Distancing and Wearing Masks Enforced
+22/09/2020,22,9,2020,2204,3,Belgium,BE,BEL,11455519,Europe,142.0363407,0.000192396,130,2,Social Distancing and Wearing Masks Enforced
+21/09/2020,21,9,2020,461,3,Belgium,BE,BEL,11455519,Europe,139.3651392,4.02426E-05,-1743,0,Social Distancing and Wearing Masks Enforced
+20/09/2020,20,9,2020,894,8,Belgium,BE,BEL,11455519,Europe,134.3719128,7.8041E-05,433,5,Social Distancing and Wearing Masks Enforced
+19/09/2020,19,9,2020,1709,6,Belgium,BE,BEL,11455519,Europe,125.8083549,0.000149186,815,-2,Social Distancing and Wearing Masks Enforced
+18/09/2020,18,9,2020,1752,1,Belgium,BE,BEL,11455519,Europe,116.4242319,0.000152939,43,-5,Social Distancing and Wearing Masks Enforced
+17/09/2020,17,9,2020,1942,2,Belgium,BE,BEL,11455519,Europe,104.4823897,0.000169525,190,1,Social Distancing and Wearing Masks Enforced
+16/09/2020,16,9,2020,1628,3,Belgium,BE,BEL,11455519,Europe,95.20301961,0.000142115,-314,1,Social Distancing and Wearing Masks Enforced
+15/09/2020,15,9,2020,1727,4,Belgium,BE,BEL,11455519,Europe,85.66176705,0.000150757,99,1,Social Distancing and Wearing Masks Enforced
+14/09/2020,14,9,2020,301,1,Belgium,BE,BEL,11455519,Europe,84.05555436,2.62755E-05,-1426,-3,Social Distancing and Wearing Masks Enforced
+13/09/2020,13,9,2020,617,1,Belgium,BE,BEL,11455519,Europe,80.37174047,5.38605E-05,316,0,Social Distancing and Wearing Masks Enforced
+12/09/2020,12,9,2020,1284,5,Belgium,BE,BEL,11455519,Europe,74.52303121,0.000112086,667,4,Social Distancing and Wearing Masks Enforced
+11/09/2020,11,9,2020,1143,3,Belgium,BE,BEL,11455519,Europe,69.2155458,9.97772E-05,-141,-2,Social Distancing and Wearing Masks Enforced
+10/09/2020,10,9,2020,1024,2,Belgium,BE,BEL,11455519,Europe,64.86829623,8.93892E-05,-119,-1,Social Distancing and Wearing Masks Enforced
+09/09/2020,9,9,2020,871,3,Belgium,BE,BEL,11455519,Europe,61.86537685,7.60332E-05,-153,1,Social Distancing and Wearing Masks Enforced
+08/09/2020,8,9,2020,918,4,Belgium,BE,BEL,11455519,Europe,59.15052823,8.0136E-05,47,1,Social Distancing and Wearing Masks Enforced
+07/09/2020,7,9,2020,155,2,Belgium,BE,BEL,11455519,Europe,58.80135156,1.35306E-05,-763,-2,Social Distancing and Wearing Masks Enforced
+06/09/2020,6,9,2020,322,1,Belgium,BE,BEL,11455519,Europe,57.76255096,2.81087E-05,167,-1,Social Distancing and Wearing Masks Enforced
+05/09/2020,5,9,2020,728,2,Belgium,BE,BEL,11455519,Europe,55.8595381,6.35502E-05,406,1,Social Distancing and Wearing Masks Enforced
+04/09/2020,4,9,2020,677,4,Belgium,BE,BEL,11455519,Europe,55.02151408,5.90982E-05,-51,2,Social Distancing and Wearing Masks Enforced
+03/09/2020,3,9,2020,574,2,Belgium,BE,BEL,11455519,Europe,55.35323192,5.01069E-05,-103,-2,Social Distancing and Wearing Masks Enforced
+02/09/2020,2,9,2020,565,3,Belgium,BE,BEL,11455519,Europe,56.74993861,4.93212E-05,-9,1,Social Distancing and Wearing Masks Enforced
+01/09/2020,1,9,2020,634,3,Belgium,BE,BEL,11455519,Europe,57.38718604,5.53445E-05,69,0,Social Distancing and Wearing Masks Enforced
+31/08/2020,31,8,2020,117,1,Belgium,BE,BEL,11455519,Europe,57.51812729,1.02134E-05,-517,-2,Social Distancing and Wearing Masks Enforced
+30/08/2020,30,8,2020,195,6,Belgium,BE,BEL,11455519,Europe,57.23878595,1.70224E-05,78,5,Social Distancing and Wearing Masks Enforced
+29/08/2020,29,8,2020,614,4,Belgium,BE,BEL,11455519,Europe,57.0030917,5.35986E-05,419,-2,Social Distancing and Wearing Masks Enforced
+28/08/2020,28,8,2020,535,3,Belgium,BE,BEL,11455519,Europe,58.17283355,4.67024E-05,-79,-1,Social Distancing and Wearing Masks Enforced
+27/08/2020,27,8,2020,526,4,Belgium,BE,BEL,11455519,Europe,58.89737514,4.59167E-05,-9,1,Social Distancing and Wearing Masks Enforced
+26/08/2020,26,8,2020,527,5,Belgium,BE,BEL,11455519,Europe,60.56469375,4.6004E-05,1,1,Social Distancing and Wearing Masks Enforced
+25/08/2020,25,8,2020,607,5,Belgium,BE,BEL,11455519,Europe,62.88671862,5.29876E-05,80,0,Social Distancing and Wearing Masks Enforced
+24/08/2020,24,8,2020,115,3,Belgium,BE,BEL,11455519,Europe,62.94782454,1.00388E-05,-492,-2,Social Distancing and Wearing Masks Enforced
+23/08/2020,23,8,2020,203,5,Belgium,BE,BEL,11455519,Europe,63.82949563,1.77207E-05,88,2,Social Distancing and Wearing Masks Enforced
+22/08/2020,22,8,2020,510,3,Belgium,BE,BEL,11455519,Europe,66.10787342,4.452E-05,307,-2,Social Distancing and Wearing Masks Enforced
+21/08/2020,21,8,2020,581,4,Belgium,BE,BEL,11455519,Europe,67.74900378,5.07179E-05,71,1,Social Distancing and Wearing Masks Enforced
+20/08/2020,20,8,2020,612,9,Belgium,BE,BEL,11455519,Europe,69.18062813,5.3424E-05,31,5,Social Distancing and Wearing Masks Enforced
+19/08/2020,19,8,2020,725,11,Belgium,BE,BEL,11455519,Europe,69.95754623,6.32883E-05,113,2,Social Distancing and Wearing Masks Enforced
+18/08/2020,18,8,2020,707,7,Belgium,BE,BEL,11455519,Europe,70.71700549,6.1717E-05,-18,-4,Social Distancing and Wearing Masks Enforced
+17/08/2020,17,8,2020,132,7,Belgium,BE,BEL,11455519,Europe,70.85667616,1.15228E-05,-575,0,Social Distancing and Wearing Masks Enforced
+16/08/2020,16,8,2020,163,9,Belgium,BE,BEL,11455519,Europe,72.13117101,1.42289E-05,31,2,Social Distancing and Wearing Masks Enforced
+15/08/2020,15,8,2020,587,12,Belgium,BE,BEL,11455519,Europe,72.97792444,5.12417E-05,424,3,Social Distancing and Wearing Masks Enforced
+14/08/2020,14,8,2020,669,12,Belgium,BE,BEL,11455519,Europe,72.68112427,5.83998E-05,82,0,Social Distancing and Wearing Masks Enforced
+13/08/2020,13,8,2020,609,11,Belgium,BE,BEL,11455519,Europe,73.50168945,5.31621E-05,-60,-1,Social Distancing and Wearing Masks Enforced
+12/08/2020,12,8,2020,718,13,Belgium,BE,BEL,11455519,Europe,73.21361869,6.26772E-05,109,2,Social Distancing and Wearing Masks Enforced
+11/08/2020,11,8,2020,873,11,Belgium,BE,BEL,11455519,Europe,70.78684082,7.62078E-05,155,-2,Social Distancing and Wearing Masks Enforced
+10/08/2020,10,8,2020,122,5,Belgium,BE,BEL,11455519,Europe,71.32806466,1.06499E-05,-751,-6,Social Distancing and Wearing Masks Enforced
+09/08/2020,9,8,2020,304,2,Belgium,BE,BEL,11455519,Europe,70.6733584,2.65374E-05,182,-3,Social Distancing and Wearing Masks Enforced
+08/08/2020,8,8,2020,771,6,Belgium,BE,BEL,11455519,Europe,68.27276879,6.73038E-05,467,4,Social Distancing and Wearing Masks Enforced
+07/08/2020,7,8,2020,769,4,Belgium,BE,BEL,11455519,Europe,65.39206124,6.71292E-05,-2,-2,Social Distancing and Wearing Masks Enforced
+06/08/2020,6,8,2020,776,5,Belgium,BE,BEL,11455519,Europe,63.4454013,6.77403E-05,7,1,Social Distancing and Wearing Masks Enforced
+05/08/2020,5,8,2020,814,5,Belgium,BE,BEL,11455519,Europe,57.60542146,7.10575E-05,38,0,Social Distancing and Wearing Masks Enforced
+04/08/2020,4,8,2020,794,3,Belgium,BE,BEL,11455519,Europe,54.54139616,6.93116E-05,-20,-2,Social Distancing and Wearing Masks Enforced
+03/08/2020,3,8,2020,148,5,Belgium,BE,BEL,11455519,Europe,53.80812515,1.29195E-05,-646,2,Social Distancing and Wearing Masks Enforced
+02/08/2020,2,8,2020,309,2,Belgium,BE,BEL,11455519,Europe,52.24555954,2.69739E-05,161,-3,Social Distancing and Wearing Masks Enforced
+01/08/2020,1,8,2020,684,3,Belgium,BE,BEL,11455519,Europe,48.66649865,5.97092E-05,375,1,Social Distancing and Wearing Masks Enforced
+31/07/2020,31,7,2020,635,2,Belgium,BE,BEL,11455519,Europe,45.09616718,5.54318E-05,-49,-1,Social Distancing and Wearing Masks Enforced
+30/07/2020,30,7,2020,703,3,Belgium,BE,BEL,11455519,Europe,41.22903554,6.13678E-05,68,1,Social Distancing and Wearing Masks Enforced
+29/07/2020,29,7,2020,685,1,Belgium,BE,BEL,11455519,Europe,37.05637431,5.97965E-05,-18,-2,Social Distancing and Wearing Masks Enforced
+28/07/2020,28,7,2020,595,4,Belgium,BE,BEL,11455519,Europe,33.81776068,5.194E-05,-90,3,Social Distancing and Wearing Masks Enforced
+27/07/2020,27,7,2020,184,2,Belgium,BE,BEL,11455519,Europe,32.58691291,1.60621E-05,-411,-2,Social Distancing and Wearing Masks Enforced
+26/07/2020,26,7,2020,229,1,Belgium,BE,BEL,11455519,Europe,31.12910031,1.99904E-05,45,-1,Social Distancing and Wearing Masks Enforced
+25/07/2020,25,7,2020,496,5,Belgium,BE,BEL,11455519,Europe,27.90794551,4.32979E-05,267,4,Social Distancing and Wearing Masks Enforced
+24/07/2020,24,7,2020,439,2,Belgium,BE,BEL,11455519,Europe,25.15817921,3.83221E-05,-57,-3,Social Distancing and Wearing Masks Enforced
+23/07/2020,23,7,2020,553,2,Belgium,BE,BEL,11455519,Europe,21.52674183,4.82737E-05,114,0,Social Distancing and Wearing Masks Enforced
+22/07/2020,22,7,2020,145,1,Belgium,BE,BEL,11455519,Europe,21.12518865,1.26577E-05,-408,-1,Social Distancing and Wearing Masks Enforced
+21/07/2020,21,7,2020,443,2,Belgium,BE,BEL,11455519,Europe,18.23575169,3.86713E-05,298,1,Social Distancing and Wearing Masks Enforced
+20/07/2020,20,7,2020,64,1,Belgium,BE,BEL,11455519,Europe,17.88657502,5.58683E-06,-379,-1,Social Distancing and Wearing Masks Enforced
+19/07/2020,19,7,2020,130,3,Belgium,BE,BEL,11455519,Europe,17.31043351,1.13482E-05,66,2,Social Distancing and Wearing Masks Enforced
+18/07/2020,18,7,2020,274,2,Belgium,BE,BEL,11455519,Europe,15.73913849,2.39186E-05,144,-1,Social Distancing and Wearing Masks Enforced
+17/07/2020,17,7,2020,226,5,Belgium,BE,BEL,11455519,Europe,14.57812605,1.97285E-05,-48,3,Social Distancing and Wearing Masks Enforced
+16/07/2020,16,7,2020,260,5,Belgium,BE,BEL,11455519,Europe,13.48694895,2.26965E-05,34,0,Social Distancing and Wearing Masks Enforced
+15/07/2020,15,7,2020,207,3,Belgium,BE,BEL,11455519,Europe,12.55290136,1.80699E-05,-53,-2,Social Distancing and Wearing Masks Enforced
+14/07/2020,14,7,2020,224,0,Belgium,BE,BEL,11455519,Europe,11.70614793,1.95539E-05,17,-3,Social Distancing and Wearing Masks Enforced
+13/07/2020,13,7,2020,43,4,Belgium,BE,BEL,11455519,Europe,11.54028901,3.75365E-06,-181,4,Social Distancing and Wearing Masks Enforced
+12/07/2020,12,7,2020,62,2,Belgium,BE,BEL,11455519,Europe,11.35697126,5.41224E-06,19,-2,Social Distancing and Wearing Masks Enforced
+11/07/2020,11,7,2020,127,0,Belgium,BE,BEL,11455519,Europe,11.23475942,1.10864E-05,65,-2,Social Distancing and Wearing Masks Enforced
+10/07/2020,10,7,2020,124,2,Belgium,BE,BEL,11455519,Europe,10.81574741,1.08245E-05,-3,2,Social Distancing and Wearing Masks Enforced
+09/07/2020,9,7,2020,137,1,Belgium,BE,BEL,11455519,Europe,10.49275899,1.19593E-05,13,-1,Social Distancing and Wearing Masks Enforced
+08/07/2020,8,7,2020,99,3,Belgium,BE,BEL,11455519,Europe,10.58878258,8.64212E-06,-38,2,Social Distancing and Wearing Masks Enforced
+07/07/2020,7,7,2020,112,1,Belgium,BE,BEL,11455519,Europe,10.8593945,9.77695E-06,13,-2,Social Distancing and Wearing Masks Enforced
+06/07/2020,6,7,2020,24,2,Belgium,BE,BEL,11455519,Europe,10.82447683,2.09506E-06,-88,1,Social Distancing and Wearing Masks Enforced
+05/07/2020,5,7,2020,64,3,Belgium,BE,BEL,11455519,Europe,10.702265,5.58683E-06,40,1,Social Distancing and Wearing Masks Enforced
+04/07/2020,4,7,2020,94,2,Belgium,BE,BEL,11455519,Europe,10.93795925,8.20565E-06,30,-1,Social Distancing and Wearing Masks Enforced
+03/07/2020,3,7,2020,93,5,Belgium,BE,BEL,11455519,Europe,11.0689005,8.11836E-06,-1,3,Social Distancing and Wearing Masks Enforced
+02/07/2020,2,7,2020,135,2,Belgium,BE,BEL,11455519,Europe,10.9641475,1.17847E-05,42,-3,Social Distancing and Wearing Masks Enforced
+01/07/2020,1,7,2020,100,8,Belgium,BE,BEL,11455519,Europe,10.95541808,8.72942E-06,-35,6,Social Distancing and Wearing Masks Enforced
+30/06/2020,30,6,2020,127,3,Belgium,BE,BEL,11455519,Europe,11.13000642,1.10864E-05,27,-5,Social Distancing and Wearing Masks Enforced
+29/06/2020,29,6,2020,24,5,Belgium,BE,BEL,11455519,Europe,11.11254759,2.09506E-06,-103,2,Social Distancing and Wearing Masks Enforced
+28/06/2020,28,6,2020,41,8,Belgium,BE,BEL,11455519,Europe,11.18238292,3.57906E-06,17,3,Social Distancing and Wearing Masks Enforced
+27/06/2020,27,6,2020,113,2,Belgium,BE,BEL,11455519,Europe,10.97287692,9.86424E-06,72,-6,Social Distancing and Wearing Masks Enforced
+26/06/2020,26,6,2020,76,5,Belgium,BE,BEL,11455519,Europe,11.13873584,6.63436E-06,-37,3,Social Distancing and Wearing Masks Enforced
+25/06/2020,25,6,2020,100,3,Belgium,BE,BEL,11455519,Europe,11.30459475,8.72942E-06,24,-2,Social Distancing and Wearing Masks Enforced
+24/06/2020,24,6,2020,110,4,Belgium,BE,BEL,11455519,Europe,11.61012434,9.60236E-06,10,1,Social Distancing and Wearing Masks Enforced
+23/06/2020,23,6,2020,143,12,Belgium,BE,BEL,11455519,Europe,11.69741851,1.24831E-05,33,8,Social Distancing and Wearing Masks Enforced
+22/06/2020,22,6,2020,20,9,Belgium,BE,BEL,11455519,Europe,11.98548927,1.74588E-06,-123,-3,Social Distancing and Wearing Masks Enforced
+21/06/2020,21,6,2020,50,3,Belgium,BE,BEL,11455519,Europe,12.15134818,4.36471E-06,30,-6,Social Distancing and Wearing Masks Enforced
+20/06/2020,20,6,2020,121,4,Belgium,BE,BEL,11455519,Europe,12.43941894,1.05626E-05,71,1,Social Distancing and Wearing Masks Enforced
+19/06/2020,19,6,2020,108,5,Belgium,BE,BEL,11455519,Europe,12.99810161,9.42777E-06,-13,1,Social Distancing and Wearing Masks Enforced
+18/06/2020,18,6,2020,123,7,Belgium,BE,BEL,11455519,Europe,13.31236062,1.07372E-05,15,2,Social Distancing and Wearing Masks Enforced
+17/06/2020,17,6,2020,99,7,Belgium,BE,BEL,11455519,Europe,14.04563163,8.64212E-06,-24,0,Social Distancing and Wearing Masks Enforced
+16/06/2020,16,6,2020,147,8,Belgium,BE,BEL,11455519,Europe,13.27744295,1.28322E-05,48,1,Social Distancing and Wearing Masks Enforced
+15/06/2020,15,6,2020,22,3,Belgium,BE,BEL,11455519,Europe,13.5131372,1.92047E-06,-125,-5,Social Distancing and Wearing Masks Enforced
+14/06/2020,14,6,2020,49,5,Belgium,BE,BEL,11455519,Europe,13.61789021,4.27741E-06,27,2,Social Distancing and Wearing Masks Enforced
+13/06/2020,13,6,2020,89,10,Belgium,BE,BEL,11455519,Europe,14.28132588,7.76918E-06,40,5,Social Distancing and Wearing Masks Enforced
+12/06/2020,12,6,2020,95,7,Belgium,BE,BEL,11455519,Europe,14.94476156,8.29295E-06,6,-3,Social Distancing and Wearing Masks Enforced
+11/06/2020,11,6,2020,119,12,Belgium,BE,BEL,11455519,Europe,15.49471482,1.0388E-05,24,5,Social Distancing and Wearing Masks Enforced
+10/06/2020,10,6,2020,145,12,Belgium,BE,BEL,11455519,Europe,15.99229158,1.26577E-05,26,0,Social Distancing and Wearing Masks Enforced
+09/06/2020,9,6,2020,153,9,Belgium,BE,BEL,11455519,Europe,17.39772768,1.3356E-05,8,-3,Social Distancing and Wearing Masks Enforced
+08/06/2020,8,6,2020,53,12,Belgium,BE,BEL,11455519,Europe,17.58977485,4.62659E-06,-100,3,Lockdown
+07/06/2020,7,6,2020,69,11,Belgium,BE,BEL,11455519,Europe,18.06116336,6.0233E-06,16,-1,Lockdown
+06/06/2020,6,6,2020,154,12,Belgium,BE,BEL,11455519,Europe,18.88172854,1.34433E-05,85,1,Lockdown
+05/06/2020,5,6,2020,172,14,Belgium,BE,BEL,11455519,Europe,17.99132802,1.50146E-05,18,2,Lockdown
+04/06/2020,4,6,2020,159,20,Belgium,BE,BEL,11455519,Europe,19.96417622,1.38798E-05,-13,6,Lockdown
+03/06/2020,3,6,2020,183,23,Belgium,BE,BEL,11455519,Europe,20.91568265,1.59748E-05,24,3,Lockdown
+02/06/2020,2,6,2020,59,21,Belgium,BE,BEL,11455519,Europe,23.16787218,5.15036E-06,-124,-2,Lockdown
+01/06/2020,1,6,2020,49,22,Belgium,BE,BEL,11455519,Europe,23.44721352,4.27741E-06,-10,1,Lockdown
+31/05/2020,31,5,2020,61,23,Belgium,BE,BEL,11455519,Europe,24.19794337,5.32494E-06,12,1,Lockdown
+30/05/2020,30,5,2020,165,16,Belgium,BE,BEL,11455519,Europe,25.78669722,1.44035E-05,104,-7,Lockdown
+29/05/2020,29,5,2020,171,26,Belgium,BE,BEL,11455519,Europe,26.95643908,1.49273E-05,6,10,Lockdown
+28/05/2020,28,5,2020,182,24,Belgium,BE,BEL,11455519,Europe,28.16982801,1.58875E-05,11,-2,Lockdown
+27/05/2020,27,5,2020,202,24,Belgium,BE,BEL,11455519,Europe,29.85460545,1.76334E-05,20,0,Lockdown
+26/05/2020,26,5,2020,314,26,Belgium,BE,BEL,11455519,Europe,31.26877097,2.74104E-05,112,2,Lockdown
+25/05/2020,25,5,2020,75,33,Belgium,BE,BEL,11455519,Europe,31.6441359,6.54706E-06,-239,7,Lockdown
+24/05/2020,24,5,2020,123,25,Belgium,BE,BEL,11455519,Europe,32.66547766,1.07372E-05,48,-8,Lockdown
+23/05/2020,23,5,2020,248,41,Belgium,BE,BEL,11455519,Europe,34.71689061,2.1649E-05,125,16,Lockdown
+22/05/2020,22,5,2020,70,34,Belgium,BE,BEL,11455519,Europe,37.96423366,6.11059E-06,-178,-7,Lockdown
+21/05/2020,21,5,2020,385,30,Belgium,BE,BEL,11455519,Europe,39.42204626,3.36083E-05,315,-4,Lockdown
+20/05/2020,20,5,2020,292,33,Belgium,BE,BEL,11455519,Europe,41.64804755,2.54899E-05,-93,3,Lockdown
+19/05/2020,19,5,2020,317,37,Belgium,BE,BEL,11455519,Europe,44.72953168,2.76723E-05,25,4,Lockdown
+18/05/2020,18,5,2020,81,31,Belgium,BE,BEL,11455519,Europe,45.24456727,7.07083E-06,-236,-6,Lockdown
+17/05/2020,17,5,2020,147,30,Belgium,BE,BEL,11455519,Europe,46.4579562,1.28322E-05,66,-1,Lockdown
+16/05/2020,16,5,2020,347,45,Belgium,BE,BEL,11455519,Europe,45.49772036,3.02911E-05,200,15,Lockdown
+15/05/2020,15,5,2020,305,43,Belgium,BE,BEL,11455519,Europe,47.95068648,2.66247E-05,-42,-2,Lockdown
+14/05/2020,14,5,2020,321,56,Belgium,BE,BEL,11455519,Europe,49.70529925,2.80214E-05,16,13,Lockdown
+13/05/2020,13,5,2020,395,45,Belgium,BE,BEL,11455519,Europe,51.22421778,3.44812E-05,74,-11,Lockdown
+12/05/2020,12,5,2020,476,65,Belgium,BE,BEL,11455519,Europe,53.65972506,4.1552E-05,81,20,Lockdown
+11/05/2020,11,5,2020,118,72,Belgium,BE,BEL,11455519,Europe,54.41918433,1.03007E-05,-358,7,Lockdown
+10/05/2020,10,5,2020,240,71,Belgium,BE,BEL,11455519,Europe,55.71113801,2.09506E-05,122,-1,Lockdown
+09/05/2020,9,5,2020,483,74,Belgium,BE,BEL,11455519,Europe,58.57438672,4.21631E-05,243,3,Lockdown
+08/05/2020,8,5,2020,442,71,Belgium,BE,BEL,11455519,Europe,63.23589529,3.8584E-05,-41,-3,Lockdown
+07/05/2020,7,5,2020,552,76,Belgium,BE,BEL,11455519,Europe,65.20874349,4.81864E-05,110,5,Lockdown
+06/05/2020,6,5,2020,547,81,Belgium,BE,BEL,11455519,Europe,71.52011183,4.77499E-05,-5,5,Lockdown
+05/05/2020,5,5,2020,670,95,Belgium,BE,BEL,11455519,Europe,76.82759725,5.84871E-05,123,14,Lockdown
+04/05/2020,4,5,2020,140,94,Belgium,BE,BEL,11455519,Europe,79.48133996,1.22212E-05,-530,-1,Lockdown
+03/05/2020,3,5,2020,286,75,Belgium,BE,BEL,11455519,Europe,83.28736568,2.49661E-05,146,-19,Lockdown
+02/05/2020,2,5,2020,237,93,Belgium,BE,BEL,11455519,Europe,93.39603033,2.06887E-05,-49,18,Lockdown
+01/05/2020,1,5,2020,586,87,Belgium,BE,BEL,11455519,Europe,102.9023652,5.11544E-05,349,-6,Lockdown
+30/04/2020,30,4,2020,522,107,Belgium,BE,BEL,11455519,Europe,112.6007473,4.55676E-05,-64,20,Lockdown
+29/04/2020,29,4,2020,569,110,Belgium,BE,BEL,11455519,Europe,121.2603288,4.96704E-05,47,3,Lockdown
+28/04/2020,28,4,2020,755,135,Belgium,BE,BEL,11455519,Europe,119.3660453,6.59071E-05,186,25,Lockdown
+27/04/2020,27,4,2020,205,154,Belgium,BE,BEL,11455519,Europe,122.1507293,1.78953E-05,-550,19,Lockdown
+26/04/2020,26,4,2020,388,142,Belgium,BE,BEL,11455519,Europe,127.7724737,3.38701E-05,183,-12,Lockdown
+25/04/2020,25,4,2020,811,155,Belgium,BE,BEL,11455519,Europe,141.0848343,7.07956E-05,423,13,Lockdown
+24/04/2020,24,4,2020,976,156,Belgium,BE,BEL,11455519,Europe,152.1188171,8.51991E-05,165,1,Lockdown
+23/04/2020,23,4,2020,778,181,Belgium,BE,BEL,11455519,Europe,159.2856683,6.79149E-05,-198,25,Lockdown
+22/04/2020,22,4,2020,1270,203,Belgium,BE,BEL,11455519,Europe,161.4243755,0.000110864,492,22,Lockdown
+21/04/2020,21,4,2020,1278,206,Belgium,BE,BEL,11455519,Europe,167.1683317,0.000111562,8,3,Lockdown
+20/04/2020,20,4,2020,444,190,Belgium,BE,BEL,11455519,Europe,169.1149917,3.87586E-05,-834,-16,Lockdown
+19/04/2020,19,4,2020,722,208,Belgium,BE,BEL,11455519,Europe,170.8696044,6.30264E-05,278,18,Lockdown
+18/04/2020,18,4,2020,1395,205,Belgium,BE,BEL,11455519,Europe,173.4797001,0.000121775,673,-3,Lockdown
+17/04/2020,17,4,2020,1675,246,Belgium,BE,BEL,11455519,Europe,171.7600049,0.000146218,280,41,Lockdown
+16/04/2020,16,4,2020,1633,280,Belgium,BE,BEL,11455519,Europe,170.7473926,0.000142551,-42,34,Lockdown
+15/04/2020,15,4,2020,1561,261,Belgium,BE,BEL,11455519,Europe,171.803652,0.000136266,-72,-19,Lockdown
+14/04/2020,14,4,2020,538,277,Belgium,BE,BEL,11455519,Europe,182.2876816,4.69643E-05,-1023,16,Lockdown
+13/04/2020,13,4,2020,524,265,Belgium,BE,BEL,11455519,Europe,183.6931177,4.57421E-05,-14,-12,Lockdown
+12/04/2020,12,4,2020,1032,284,Belgium,BE,BEL,11455519,Europe,182.0607168,9.00876E-05,508,19,Lockdown
+11/04/2020,11,4,2020,2336,302,Belgium,BE,BEL,11455519,Europe,174.9375127,0.000203919,1304,18,Lockdown
+10/04/2020,10,4,2020,2240,272,Belgium,BE,BEL,11455519,Europe,167.2818141,0.000195539,-96,-30,Lockdown
+09/04/2020,9,4,2020,1599,322,Belgium,BE,BEL,11455519,Europe,163.7900474,0.000139583,-641,50,Lockdown
+08/04/2020,8,4,2020,1515,277,Belgium,BE,BEL,11455519,Europe,160.996634,0.000132251,-84,-45,Lockdown
+07/04/2020,7,4,2020,1936,257,Belgium,BE,BEL,11455519,Europe,155.6891486,0.000169002,421,-20,Lockdown
+06/04/2020,6,4,2020,667,247,Belgium,BE,BEL,11455519,Europe,154.1091242,5.82252E-05,-1269,-10,Lockdown
+05/04/2020,5,4,2020,923,271,Belgium,BE,BEL,11455519,Europe,150.1459689,8.05725E-05,256,24,Lockdown
+04/04/2020,4,4,2020,1694,236,Belgium,BE,BEL,11455519,Europe,141.1372108,0.000147876,771,-35,Lockdown
+03/04/2020,3,4,2020,1478,219,Belgium,BE,BEL,11455519,Europe,134.459207,0.000129021,-216,-17,Lockdown
+02/04/2020,2,4,2020,1517,233,Belgium,BE,BEL,11455519,Europe,125.8869197,0.000132425,39,14,Lockdown
+01/04/2020,1,4,2020,1682,208,Belgium,BE,BEL,11455519,Europe,114.8878545,0.000146829,165,-25,Lockdown
+31/03/2020,31,3,2020,1739,170,Belgium,BE,BEL,11455519,Europe,103.085683,0.000151805,57,-38,Lockdown
+30/03/2020,30,3,2020,685,149,Belgium,BE,BEL,11455519,Europe,98.97412767,5.97965E-05,-1054,-21,Lockdown
+29/03/2020,29,3,2020,845,141,Belgium,BE,BEL,11455519,Europe,93.16033608,7.37636E-05,160,-8,Lockdown
+28/03/2020,28,3,2020,1520,128,Belgium,BE,BEL,11455519,Europe,82.84216542,0.000132687,675,-13,Lockdown
+27/03/2020,27,3,2020,1363,102,Belgium,BE,BEL,11455519,Europe,73.12632453,0.000118982,-157,-26,Lockdown
+26/03/2020,26,3,2020,1199,107,Belgium,BE,BEL,11455519,Europe,64.17867231,0.000104666,-164,5,Lockdown
+25/03/2020,25,3,2020,1195,77,Belgium,BE,BEL,11455519,Europe,54.61123149,0.000104317,-4,-30,Lockdown
+24/03/2020,24,3,2020,1328,78,Belgium,BE,BEL,11455519,Europe,43.83913116,0.000115927,133,1,Lockdown
+23/03/2020,23,3,2020,486,47,Belgium,BE,BEL,11455519,Europe,40.15531728,4.2425E-05,-842,-31,Lockdown
+22/03/2020,22,3,2020,469,40,Belgium,BE,BEL,11455519,Europe,36.29691505,4.0941E-05,-17,-7,Lockdown
+21/03/2020,21,3,2020,662,35,Belgium,BE,BEL,11455519,Europe,31.47827698,5.77887E-05,193,-5,Lockdown
+20/03/2020,20,3,2020,713,33,Belgium,BE,BEL,11455519,Europe,25.96128556,6.22407E-05,51,-2,Lockdown
+19/03/2020,19,3,2020,535,22,Belgium,BE,BEL,11455519,Europe,21.75370666,4.67024E-05,-178,-11,Lockdown
+18/03/2020,18,3,2020,422,10,Belgium,BE,BEL,11455519,Europe,18.36669295,3.68381E-05,-113,-12,Lockdown
+17/03/2020,17,3,2020,387,12,Belgium,BE,BEL,11455519,Europe,15.15426756,3.37828E-05,-35,2,Social Distancing and Wearing Masks Enforced
+16/03/2020,16,3,2020,214,6,Belgium,BE,BEL,11455519,Europe,13.28617237,1.8681E-05,-173,-6,Social Distancing and Wearing Masks Enforced
+15/03/2020,15,3,2020,179,5,Belgium,BE,BEL,11455519,Europe,11.88073626,1.56257E-05,-35,-1,Social Distancing and Wearing Masks Enforced
+14/03/2020,14,3,2020,338,3,Belgium,BE,BEL,11455519,Europe,8.93019339,2.95054E-05,159,-2,Social Distancing and Wearing Masks Enforced
+13/03/2020,13,3,2020,250,1,Belgium,BE,BEL,11455519,Europe,6.74783919,2.18235E-05,-88,-2,Social Distancing and Wearing Masks Enforced
+12/03/2020,12,3,2020,174,3,Belgium,BE,BEL,11455519,Europe,5.22892066,1.51892E-05,-76,2,Social Distancing and Wearing Masks Enforced
+11/03/2020,11,3,2020,99,0,Belgium,BE,BEL,11455519,Europe,4.3647084,8.64212E-06,-75,-3,Social Distancing and Wearing Masks Enforced
+10/03/2020,10,3,2020,94,1,Belgium,BE,BEL,11455519,Europe,3.54414322,8.20565E-06,-5,1,Social Distancing and Wearing Masks Enforced
+09/03/2020,9,3,2020,64,0,Belgium,BE,BEL,11455519,Europe,2.98546055,5.58683E-06,-30,-1,Social Distancing and Wearing Masks Enforced
+08/03/2020,8,3,2020,27,0,Belgium,BE,BEL,11455519,Europe,2.74976629,2.35694E-06,-37,0,Social Distancing and Wearing Masks Enforced
+07/03/2020,7,3,2020,110,0,Belgium,BE,BEL,11455519,Europe,1.78953044,9.60236E-06,83,0,Social Distancing and Wearing Masks Enforced
+06/03/2020,6,3,2020,81,0,Belgium,BE,BEL,11455519,Europe,1.08244768,7.07083E-06,-29,0,Social Distancing and Wearing Masks Enforced
+05/03/2020,5,3,2020,53,0,Belgium,BE,BEL,11455519,Europe,0.61978859,4.62659E-06,-28,0,Social Distancing and Wearing Masks Enforced
+04/03/2020,4,3,2020,34,0,Belgium,BE,BEL,11455519,Europe,0.32298842,2.968E-06,-19,0,Social Distancing and Wearing Masks Enforced
+03/03/2020,3,3,2020,19,0,Belgium,BE,BEL,11455519,Europe,0.1571295,1.65859E-06,-15,0,Social Distancing and Wearing Masks Enforced
+02/03/2020,2,3,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.1571295,0,-19,0,Social Distancing and Wearing Masks Enforced
+01/03/2020,1,3,2020,18,0,Belgium,BE,BEL,11455519,Europe,0,1.5713E-06,18,0,Social Distancing and Wearing Masks Enforced
+29/02/2020,29,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,-18,0,Social Distancing and Wearing Masks Enforced
+28/02/2020,28,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+27/02/2020,27,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+26/02/2020,26,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+25/02/2020,25,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+24/02/2020,24,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+23/02/2020,23,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+22/02/2020,22,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+21/02/2020,21,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+20/02/2020,20,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+19/02/2020,19,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+18/02/2020,18,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.00872942,0,0,0,Social Distancing and Wearing Masks Enforced
+17/02/2020,17,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.00872942,0,0,0,Social Distancing and Wearing Masks Enforced
+16/02/2020,16,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.00872942,0,0,0,Social Distancing and Wearing Masks Enforced
+15/02/2020,15,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.00872942,0,0,0,Social Distancing and Wearing Masks Enforced
+14/02/2020,14,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.00872942,0,0,0,Social Distancing and Wearing Masks Enforced
+13/02/2020,13,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.00872942,0,0,0,Social Distancing and Wearing Masks Enforced
+12/02/2020,12,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.00872942,0,0,0,Social Distancing and Wearing Masks Enforced
+11/02/2020,11,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.00872942,0,0,0,Social Distancing and Wearing Masks Enforced
+10/02/2020,10,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.00872942,0,0,0,Social Distancing and Wearing Masks Enforced
+09/02/2020,9,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.00872942,0,0,0,Social Distancing and Wearing Masks Enforced
+08/02/2020,8,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.00872942,0,0,0,Social Distancing and Wearing Masks Enforced
+07/02/2020,7,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.00872942,0,0,0,Social Distancing and Wearing Masks Enforced
+06/02/2020,6,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.00872942,0,0,0,Social Distancing and Wearing Masks Enforced
+05/02/2020,5,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.00872942,0,0,0,Social Distancing and Wearing Masks Enforced
+04/02/2020,4,2,2020,1,0,Belgium,BE,BEL,11455519,Europe,0,8.72942E-08,1,0,Social Distancing and Wearing Masks Enforced
+03/02/2020,3,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,-1,0,Social Distancing and Wearing Masks Enforced
+02/02/2020,2,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+01/02/2020,1,2,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+31/01/2020,31,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+30/01/2020,30,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+29/01/2020,29,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+28/01/2020,28,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+27/01/2020,27,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+26/01/2020,26,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+25/01/2020,25,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+24/01/2020,24,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+23/01/2020,23,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+22/01/2020,22,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+21/01/2020,21,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+20/01/2020,20,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+19/01/2020,19,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+18/01/2020,18,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+17/01/2020,17,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+16/01/2020,16,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+15/01/2020,15,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+14/01/2020,14,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0,0,0,0,Social Distancing and Wearing Masks Enforced
+13/01/2020,13,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,0.52376501,0,0,0,Social Distancing and Wearing Masks Enforced
+12/01/2020,12,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,,0,0,0,Social Distancing and Wearing Masks Enforced
+11/01/2020,11,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,,0,0,0,Social Distancing and Wearing Masks Enforced
+10/01/2020,10,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,,0,0,0,Social Distancing and Wearing Masks Enforced
+09/01/2020,9,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,,0,0,0,Social Distancing and Wearing Masks Enforced
+08/01/2020,8,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,,0,0,0,Social Distancing and Wearing Masks Enforced
+07/01/2020,7,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,,0,0,0,Social Distancing and Wearing Masks Enforced
+06/01/2020,6,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,,0,0,0,Social Distancing and Wearing Masks Enforced
+05/01/2020,5,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,,0,0,0,Social Distancing and Wearing Masks Enforced
+04/01/2020,4,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,,0,0,0,Social Distancing and Wearing Masks Enforced
+03/01/2020,3,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,,0,0,0,Social Distancing and Wearing Masks Enforced
+02/01/2020,2,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,,0,0,0,Social Distancing and Wearing Masks Enforced
+01/01/2020,1,1,2020,0,0,Belgium,BE,BEL,11455519,Europe,,0,0,0,Social Distancing and Wearing Masks Enforced
+31/12/2019,31,12,2019,0,0,Belgium,BE,BEL,11455519,Europe,,0,0,0,Social Distancing and Wearing Masks Enforced
