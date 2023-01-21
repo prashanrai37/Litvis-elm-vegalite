@@ -1,6 +1,9 @@
 ---
 id: litvis
 follows: data.md   
+title:"Visualisation Project"
+permalink: /
+layout: default
 ---
 
 @import "../../css/datavis.less"
