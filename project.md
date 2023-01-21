@@ -1,7 +1,6 @@
 ---
 id: litvis
 follows: data.md   
-title:"Visualisation Project"
 permalink: /
 layout: default
 ---
